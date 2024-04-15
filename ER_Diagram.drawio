@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T11:02:27.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="0B2aazdZ7pf2WZAYpip9" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T11:25:01.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lZSbu9as9EMnZAEQSAGu" version="24.2.3" type="github">
   <diagram name="Page-1" id="VTxbm6ZFIvx-NwLl5isk">
-    <mxGraphModel dx="2062" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1667" dy="1587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -316,17 +316,22 @@
             <mxPoint x="-40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mYW84UGy_Zn-pRBecV50-70" value="episode_cuisine_cook" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="310" width="160" height="60" as="geometry" />
+        <mxCell id="mYW84UGy_Zn-pRBecV50-70" value="assignment" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="310" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mYW84UGy_Zn-pRBecV50-71" value="" style="html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;endArrow=none;endFill=0;" edge="1" parent="1" source="mYW84UGy_Zn-pRBecV50-70" target="mYW84UGy_Zn-pRBecV50-55">
+        <mxCell id="mYW84UGy_Zn-pRBecV50-71" value="" style="html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;endArrow=none;endFill=0;" edge="1" parent="1" source="mYW84UGy_Zn-pRBecV50-70" target="mYW84UGy_Zn-pRBecV50-55">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-210" y="339.7" as="sourcePoint" />
             <mxPoint x="-50" y="339.7" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-240" y="450" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mYW84UGy_Zn-pRBecV50-72" value="10..10" style="resizable=0;html=1;whiteSpace=wrap;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="mYW84UGy_Zn-pRBecV50-71">
-          <mxGeometry x="-1" relative="1" as="geometry" />
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="60" y="40" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mYW84UGy_Zn-pRBecV50-81" value="" style="endArrow=none;html=1;rounded=0;exitX=0.988;exitY=0.233;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="mYW84UGy_Zn-pRBecV50-34" target="mYW84UGy_Zn-pRBecV50-70">
           <mxGeometry relative="1" as="geometry">
@@ -354,40 +359,32 @@
             <mxPoint x="57" y="110" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mYW84UGy_Zn-pRBecV50-94" value="cook_episode_recipe" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="230" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mYW84UGy_Zn-pRBecV50-95" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="mYW84UGy_Zn-pRBecV50-94" target="mYW84UGy_Zn-pRBecV50-55">
+        <mxCell id="mYW84UGy_Zn-pRBecV50-97" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mYW84UGy_Zn-pRBecV50-70" target="XMQH14Z6CKcm3YTAraPi-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-180" y="230" as="sourcePoint" />
-            <mxPoint x="-20" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mYW84UGy_Zn-pRBecV50-96" value="10..10" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="mYW84UGy_Zn-pRBecV50-95">
-          <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="40" y="-35" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mYW84UGy_Zn-pRBecV50-97" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mYW84UGy_Zn-pRBecV50-94" target="XMQH14Z6CKcm3YTAraPi-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-120" y="210" as="sourcePoint" />
+            <mxPoint x="35" y="230" as="sourcePoint" />
             <mxPoint x="40" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="340" />
+              <mxPoint y="260" />
+              <mxPoint x="205" y="260" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mYW84UGy_Zn-pRBecV50-98" value="0..10" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="mYW84UGy_Zn-pRBecV50-97">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-65" y="20" as="offset" />
+            <mxPoint x="-155" y="80" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mYW84UGy_Zn-pRBecV50-101" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mYW84UGy_Zn-pRBecV50-34" target="mYW84UGy_Zn-pRBecV50-94">
+        <mxCell id="mYW84UGy_Zn-pRBecV50-105" value="evaluation" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mYW84UGy_Zn-pRBecV50-106" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="mYW84UGy_Zn-pRBecV50-70" target="mYW84UGy_Zn-pRBecV50-105">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-450" y="251" as="sourcePoint" />
-            <mxPoint x="-65" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mYW84UGy_Zn-pRBecV50-102" value="0..10" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="mYW84UGy_Zn-pRBecV50-101">
-          <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-19" as="offset" />
+            <mxPoint x="-150" y="310" as="sourcePoint" />
+            <mxPoint x="10" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-120" y="310" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
