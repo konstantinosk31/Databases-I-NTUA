@@ -87,7 +87,7 @@ difficulty,name,description,preparation_time,cooking_time,fat,protein,carbs,cook
 2,Borsch (Beet Soup),"Serbian soup made with beets, vegetables, and meat (optional).",20,40,10,20,30,0,Beets,Serbian
 3,Curried Goat (Mexican Dish),"Hearty Mexican stew with goat meat, vegetables, and curry powder.",25,60,25,30,20,0,Goat meat,Mexican
 2,Lumpia (Thai Spring Rolls),"Savory spring rolls filled with meat or vegetables, fried until golden brown.",15,20,20,15,30,1,Spring roll wrapper,Thai
-4,Tom Kha Kai Kai Dao (Thai Coconut Curry with Omelet),"Thai curry with chicken, coconut milk, vegetables, and a fluffy omelet.",20,30,20,25,20,0,Chicken breast,Thai
+4,Tom Kha Kai Kai Dao (Thai Coconut Curry Omelet),"Thai curry with chicken, coconut milk, vegetables, and a fluffy omelet.",20,30,20,25,20,0,Chicken breast,Thai
 3,Sauerbraten (German Pot Roast),"German pot roast marinated in vinegar and spices, cooked until tender and flavorful.",40,180,25,30,20,0,Beef chuck roast,German
 4,Bulgogi (Korean Marinated Beef),"Thinly sliced beef marinated in soy sauce, garlic, and ginger, grilled or pan-fried.",20,20,20,30,5,0,Beef,Korean
 2,Nigerian Jollof Rice,"Spicy rice dish with tomatoes, peppers, onions, and spices.",15,40,10,15,30,0,Rice,Nigerian

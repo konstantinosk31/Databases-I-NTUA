@@ -6,7 +6,7 @@ def connect():
     # Connect to the database
     connection = pymysql.connect(host='localhost',
                                 user='root',
-                                password='otinanai',
+                                password='admin123',
                                 database='mydb',
                                 cursorclass=pymysql.cursors.DictCursor)
     return connection
@@ -213,8 +213,30 @@ def fill_Recipies():
 
 def fill_Steps():
     """df = pd.read_csv('steps.csv', encoding='utf-8')
-    df = df[['steps']]
-    df.drop_duplicates(inplace=True)
+    df.insert(loc=1, column='step_number',value=0)
+    # Initialize variables to keep track of step numbers and the current recipe
+    step_number = 1
+    current_recipe = df['Recipies_name'].iloc[0]
+
+    # Iterate through each row in the DataFrame
+    for index, row in df.iterrows():
+        # Check if the recipe has changed
+        if row['Recipies_name'] != current_recipe:
+            # Reset step number and update the current recipe
+            step_number = 1
+            current_recipe = row['Recipies_name']
+        
+        df.at[index, 'step_number'] = step_number
+        
+        # Increment step number for the next step
+        step_number += 1
+
+    # Write the modified DataFrame back to a CSV file
+    df.to_csv('steps.csv', index=False)"""
+
+    """df = pd.read_csv('steps.csv', encoding='utf-8')
+    df = df[['Steps_Step_Description']]
+    df.drop_duplicates(keep="first", inplace=True)
     pd.DataFrame(df).to_csv('steps_descriptions.csv', index=False)"""
     connection = connect()
     try:
@@ -236,32 +258,34 @@ def fill_Steps():
 
 def fill_Recipies_has_Steps():
     connection = connect()
+    row = []
     try:
         with connection:
             with connection.cursor() as cursor:
-                sql = "INSERT INTO Recipies_has_Steps (Recipies_name, Steps_Step_Description) VALUES (%s, %s)"
+                sql = "INSERT INTO Recipies_has_Steps (Recipies_name, step_number, Steps_Step_Description) VALUES (%s, %s, %s)"
                 with open('steps.csv', 'r', encoding='utf-8') as file:
                     csv_data = csv.reader(file)
                     next(csv_data)  # Skip the header row
                     for row in csv_data:
-                        cursor.execute(sql, (row[0], row[1]))
+                        cursor.execute(sql, (row[0], row[1], row[2]))
                 
             connection.commit()
     except Exception as e:
+        print(row)
         print("Error:", e)
     finally:
         # The connection is automatically closed when exiting the 'with connection' block
         print("Database connection closed.")
 
-#fill_Professional_Expertise()
-#fill_Cook()
-#fill_National_Cuisine()
-#fill_Meal_Form()
-#fill_Food_Category()
-#fill_Equipment()
-#fill_Etiquette()
-#fill_Thematic_Unit()
-#fill_basic_ingredients()
-#fill_Recipies()
-#fill_Steps()
+fill_Professional_Expertise()
+fill_Cook()
+fill_National_Cuisine()
+fill_Meal_Form()
+fill_Food_Category()
+fill_Equipment()
+fill_Etiquette()
+fill_Thematic_Unit()
+fill_basic_ingredients()
+fill_Recipies()
+fill_Steps()
 fill_Recipies_has_Steps()
