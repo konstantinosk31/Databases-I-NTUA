@@ -211,14 +211,57 @@ def fill_Recipies():
         # The connection is automatically closed when exiting the 'with connection' block
         print("Database connection closed.")
 
+def fill_Steps():
+    """df = pd.read_csv('steps.csv', encoding='utf-8')
+    df = df[['steps']]
+    df.drop_duplicates(inplace=True)
+    pd.DataFrame(df).to_csv('steps_descriptions.csv', index=False)"""
+    connection = connect()
+    try:
+        with connection:
+            with connection.cursor() as cursor:
+                sql = "INSERT INTO Steps (Step_Description) VALUES (%s)"
+                with open('steps_descriptions.csv', 'r', encoding='utf-8') as file:
+                    csv_data = csv.reader(file)
+                    next(csv_data)  # Skip the header row
+                    for row in csv_data:
+                        cursor.execute(sql, (row[0]))
+                
+            connection.commit()
+    except Exception as e:
+        print("Error:", e)
+    finally:
+        # The connection is automatically closed when exiting the 'with connection' block
+        print("Database connection closed.")
 
-fill_Professional_Expertise()
-fill_Cook()
-fill_National_Cuisine()
-fill_Meal_Form()
-fill_Food_Category()
-fill_Equipment()
-fill_Etiquette()
-fill_Thematic_Unit()
-fill_basic_ingredients()
-fill_Recipies()
+def fill_Recipies_has_Steps():
+    connection = connect()
+    try:
+        with connection:
+            with connection.cursor() as cursor:
+                sql = "INSERT INTO Recipies_has_Steps (Recipies_name, Steps_Step_Description) VALUES (%s, %s)"
+                with open('steps.csv', 'r', encoding='utf-8') as file:
+                    csv_data = csv.reader(file)
+                    next(csv_data)  # Skip the header row
+                    for row in csv_data:
+                        cursor.execute(sql, (row[0], row[1]))
+                
+            connection.commit()
+    except Exception as e:
+        print("Error:", e)
+    finally:
+        # The connection is automatically closed when exiting the 'with connection' block
+        print("Database connection closed.")
+
+#fill_Professional_Expertise()
+#fill_Cook()
+#fill_National_Cuisine()
+#fill_Meal_Form()
+#fill_Food_Category()
+#fill_Equipment()
+#fill_Etiquette()
+#fill_Thematic_Unit()
+#fill_basic_ingredients()
+#fill_Recipies()
+#fill_Steps()
+fill_Recipies_has_Steps()
