@@ -6,7 +6,7 @@ def connect():
     # Connect to the database
     connection = pymysql.connect(host='localhost',
                                 user='root',
-                                password='admin123',
+                                password='otinanai',
                                 database='mydb',
                                 cursorclass=pymysql.cursors.DictCursor)
     return connection
@@ -355,19 +355,41 @@ def fill_Recipies_Meal():
         # The connection is automatically closed when exiting the 'with connection' block
         print("Database connection closed.")
 
+def fill_Tips():
+    connection = connect()
+    row = []
+    try:
+        with connection:
+            with connection.cursor() as cursor:
+                sql = "INSERT INTO Tips (description, Recipies_name) VALUES (%s, %s)"
+                with open('tips.csv', 'r', encoding='utf-8') as file:
+                    csv_data = csv.reader(file)
+                    next(csv_data)  # Skip the header row
+                    for row in csv_data:
+                        cursor.execute(sql, (row[1], row[0]))
+                
+            connection.commit()
+    except Exception as e:
+        print(row)
+        print("Error:", e)
+    finally:
+        # The connection is automatically closed when exiting the 'with connection' block
+        print("Database connection closed.")
 
-#fill_Professional_Expertise()
-#fill_Cook()
-#fill_National_Cuisine()
-#fill_Meal_Form()
-#fill_Food_Category()
-#fill_Equipment()
-#fill_Etiquette()
-#fill_Thematic_Unit()
-#fill_basic_ingredients()
-#fill_Recipies()
-#fill_Steps()
-#fill_Recipies_has_Steps()
-#fill_Recipies_Etiquettes()
-#fill_Recipies_has_Equipment()
+
+fill_Professional_Expertise()
+fill_Cook()
+fill_National_Cuisine()
+fill_Meal_Form()
+fill_Food_Category()
+fill_Equipment()
+fill_Etiquette()
+fill_Thematic_Unit()
+fill_basic_ingredients()
+fill_Recipies()
+fill_Steps()
+fill_Recipies_has_Steps()
+fill_Recipies_Etiquettes()
+fill_Recipies_has_Equipment()
 fill_Recipies_Meal()
+fill_Tips()
