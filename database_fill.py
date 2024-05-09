@@ -6,7 +6,7 @@ def connect():
     # Connect to the database
     connection = pymysql.connect(host='localhost',
                                 user='root',
-                                password='admin123',
+                                password='otinanai',
                                 database='mydb',
                                 cursorclass=pymysql.cursors.DictCursor)
     return connection
@@ -277,15 +277,76 @@ def fill_Recipies_has_Steps():
         # The connection is automatically closed when exiting the 'with connection' block
         print("Database connection closed.")
 
-fill_Professional_Expertise()
-fill_Cook()
-fill_National_Cuisine()
-fill_Meal_Form()
-fill_Food_Category()
-fill_Equipment()
-fill_Etiquette()
-fill_Thematic_Unit()
-fill_basic_ingredients()
-fill_Recipies()
-fill_Steps()
-fill_Recipies_has_Steps()
+def fill_Recipies_Etiquettes():
+    connection = connect()
+    row = []
+    try:
+        with connection:
+            with connection.cursor() as cursor:
+                sql = "INSERT INTO Recipies_has_Etiquette (Recipies_name, Etiquette_Meal_Type) VALUES (%s, %s)"
+                with open('recipies_has_etiquette.csv', 'r', encoding='utf-8') as file:
+                    csv_data = csv.reader(file)
+                    next(csv_data)  # Skip the header row
+                    for row in csv_data:
+                        cursor.execute(sql, (row[0], row[1]))
+                
+            connection.commit()
+    except Exception as e:
+        print("Error:", e)
+    finally:
+        # The connection is automatically closed when exiting the 'with connection' block
+        print("Database connection closed.")
+
+def fill_Recipies_has_Equipment():
+    """df_existing = pd.read_csv('equipment.csv', encoding='utf-8')
+    df_existing = df_existing[['name']]
+    df_existing.drop_duplicates(keep="first", inplace=True)
+    df_existing.sort_values(by='name', inplace=True)
+    pd.DataFrame(df_existing).to_csv('equipment_names.csv', index=False)
+
+    df_from_recipes = pd.read_csv('recipies_has_equipment.csv', encoding='utf-8')
+    df_from_recipes = df_from_recipes[['Equipment_name']]
+    df_from_recipes.drop_duplicates(keep="first", inplace=True)
+    df_from_recipes.sort_values(by='Equipment_name', inplace=True)
+    pd.DataFrame(df_from_recipes).to_csv('equipment_names_from_recipes.csv', index=False)"""
+
+    df = pd.read_csv('recipies_has_equipment.csv', encoding='utf-8')
+    df.drop_duplicates(keep="first", inplace=True)
+    pd.DataFrame(df).to_csv('recipies_has_equipment.csv', index=False)
+    connection = connect()
+    row = []
+    try:
+        with connection:
+            with connection.cursor() as cursor:
+                sql = "INSERT INTO Recipies_has_Equipment (Recipies_name, Equipment_name) VALUES (%s, %s)"
+                with open('recipies_has_equipment.csv', 'r', encoding='utf-8') as file:
+                    csv_data = csv.reader(file)
+                    next(csv_data)  # Skip the header row
+                    for row in csv_data:
+                        cursor.execute(sql, (row[0], row[1]))
+                
+            connection.commit()
+    except Exception as e:
+        print(row)
+        print("Error:", e)
+    finally:
+        # The connection is automatically closed when exiting the 'with connection' block
+        print("Database connection closed.")
+
+
+
+
+#fill_Professional_Expertise()
+#fill_Cook()
+#fill_National_Cuisine()
+#fill_Meal_Form()
+#fill_Food_Category()
+#fill_Equipment()
+#fill_Etiquette()
+#fill_Thematic_Unit()
+#fill_basic_ingredients()
+#fill_Recipies()
+#fill_Steps()
+#fill_Recipies_has_Steps()
+#fill_Recipies_Etiquettes()
+fill_Recipies_has_Equipment()
