@@ -53,7 +53,7 @@ WHERE
 SELECT 
     COUNT(*)
 INTO cook_belongs_to_cuisine FROM
-    Has_specialization
+    Has_specialisation
 WHERE
     Cook_name = p_Cook_name
         AND Cook_surname = p_Cook_surname

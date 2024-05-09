@@ -1,0 +1,696 @@
+recipe_name,ingredient_name,quantity
+Spiced Chickpea Curry with Coconut Milk,Chickpeas,1
+Spiced Chickpea Curry with Coconut Milk,Coconut Milk,1
+Spiced Chickpea Curry with Coconut Milk,Tomatoes,2
+Spiced Chickpea Curry with Coconut Milk,Rice,1
+Spiced Chickpea Curry with Coconut Milk,Bell peppers,1
+One-Pan Lemon Garlic Salmon with Asparagus,Salmon,2
+One-Pan Lemon Garlic Salmon with Asparagus,Asparagus,1
+One-Pan Lemon Garlic Salmon with Asparagus,Lemon,1
+One-Pan Lemon Garlic Salmon with Asparagus,Garlic,3
+Penne Arrabbiata,Penne,12
+Penne Arrabbiata,Tomatoes,3
+Penne Arrabbiata,Olive Oil,3
+Penne Arrabbiata,Garlic,3
+Penne Arrabbiata,Red pepper flakes,1
+Chicken Fajitas,Chicken breast,2
+Chicken Fajitas,Bell peppers,3
+Chicken Fajitas,Tortillas,8
+Chicken Fajitas,Spices,2
+Chicken Fajitas,Olive Oil,2
+Beef and Broccoli Stir-fry,Beef flank steak,12
+Beef and Broccoli Stir-fry,Broccoli florets,1
+Beef and Broccoli Stir-fry,Soy Sauce,3
+Beef and Broccoli Stir-fry,Garlic,2
+Beef and Broccoli Stir-fry,Ginger,1
+Beef and Broccoli Stir-fry,Olive Oil,2
+Tuscan White Bean Soup,Cannellini beans,1
+Tuscan White Bean Soup,Olive Oil,1
+Tuscan White Bean Soup,Garlic,2
+Tuscan White Bean Soup,Kale,3
+Tuscan White Bean Soup,Broth,4
+Tuscan White Bean Soup,Parmesan Cheese,1
+Greek Yogurt Marinade Chicken Souvlaki,Chicken breast,1
+Greek Yogurt Marinade Chicken Souvlaki,Greek Yogurt,1
+Greek Yogurt Marinade Chicken Souvlaki,Lemon,1
+Greek Yogurt Marinade Chicken Souvlaki,Garlic,2
+Greek Yogurt Marinade Chicken Souvlaki,Olive Oil,2
+Greek Yogurt Marinade Chicken Souvlaki,Spices,1
+Pad Thai,Rice noodles,8
+Pad Thai,Eggs,2
+Pad Thai,Chicken breast,1
+Pad Thai,Fish Sauce,1
+Pad Thai,Tamarind Paste,1
+Pad Thai,Peanuts,1
+Pad Thai,Bean Sprouts,1
+Ratatouille,Eggplant,1
+Ratatouille,Zucchini,1
+Ratatouille,Tomatoes,4
+Ratatouille,Bell peppers,1
+Ratatouille,Olive Oil,2
+Ratatouille,Garlic,3
+Ratatouille,Fresh Herbs,1
+Chicken Tikka Masala,Chicken breast,1
+Chicken Tikka Masala,Tomatoes,1
+Chicken Tikka Masala,Yogurt,1
+Chicken Tikka Masala,Curry Powder,2
+Chicken Tikka Masala,Ginger,1
+Chicken Tikka Masala,Garlic,3
+Chicken Tikka Masala,Basmati Rice,1
+Caprese Salad,Tomatoes,2
+Caprese Salad,Mozzarella Cheese,8
+Caprese Salad,Fresh Basil Leaves,1
+Caprese Salad,Olive Oil,2
+Caprese Salad,Balsamic Glaze,1
+Beef Stroganoff,Beef sirloin,12
+Beef Stroganoff,Mushrooms,8
+Beef Stroganoff,Beef Broth,4
+Kung Pao Chicken,Chicken breast,1
+Kung Pao Chicken,Peanuts,1
+Kung Pao Chicken,Red bell pepper,1
+Kung Pao Chicken,Soy Sauce,2
+Kung Pao Chicken,Rice Vinegar,1
+Kung Pao Chicken,Sesame Oil,1
+Kung Pao Chicken,Garlic,2
+Kung Pao Chicken,Ginger,1
+Salmon with Lemon Dill Sauce,Salmon fillets,2
+Salmon with Lemon Dill Sauce,Lemon,1
+Salmon with Lemon Dill Sauce,Dill,2
+Salmon with Lemon Dill Sauce,Butter,2
+Scrambled Eggs,Milk,2
+Scrambled Eggs,Butter,1
+Pasta Primavera,Pasta,12
+Pasta Primavera,Vegetables,2
+Pasta Primavera,Olive Oil,2
+Pasta Primavera,Garlic,2
+Pasta Primavera,Parmesan Cheese,1
+Beef Wellington,Puff Pastry,1
+Beef Wellington,Mushrooms,8
+Beef Wellington,Dijon Mustard,1
+Beef Wellington,Egg,1
+Tuna Salad Sandwich,Canned Tuna,1
+Tuna Salad Sandwich,Mayonnaise,2
+Tuna Salad Sandwich,Celery,1
+Tuna Salad Sandwich,Bread,2
+Chicken Pot Pie,Chicken breast,1
+Chicken Pot Pie,Vegetables,2
+Chicken Pot Pie,Chicken Broth,2
+Chicken Pot Pie,Pie Crust,1
+Chicken Pot Pie,Egg,1
+Sushi Bake,Sushi Rice,2
+Sushi Bake,Imitation crab meat,8
+Sushi Bake,Vegetables,1
+Sushi Bake,Eggs,2
+Sushi Bake,Soy Sauce,2
+Sushi Bake,Rice Vinegar,1
+Sushi Bake,Sugar,1
+Sushi Bake,Sesame Oil,1
+Greek Yogurt Parfait with Granola and Berries,Greek Yogurt,1
+Greek Yogurt Parfait with Granola and Berries,Granola,1
+Greek Yogurt Parfait with Granola and Berries,Berries,1
+Shakshuka,Eggs,4
+Shakshuka,Tomatoes,4
+Shakshuka,Onions,1
+Shakshuka,Olive Oil,2
+Shakshuka,Spices,1 
+Shakshuka,Fresh Herbs,1
+Chicken Alfredo,Pasta,12
+Chicken Alfredo,Chicken breast,1
+Chicken Alfredo,Heavy Cream,1
+Chicken Alfredo,Parmesan Cheese,1
+Chicken Alfredo,Garlic,2
+Chicken Alfredo,Butter,2
+Tacos,Ground Beef,1
+Tacos,Taco Shells,12
+Tacos,Seasoning,2
+Tacos,Vegetables,2
+Tacos,Salsa,1
+Mushroom Risotto,Arborio rice,1
+Mushroom Risotto,Mushrooms,8
+Mushroom Risotto,Broth,4
+Mushroom Risotto,Parmesan Cheese,1
+Mushroom Risotto,Olive Oil,2
+Mushroom Risotto,Garlic,2
+Avocado Toast,Avocado,1
+Avocado Toast,Bread,2
+Avocado Toast,Lemon,1
+Lasagna,Ground Beef,1
+Lasagna,Lasagna Noodles,12
+Lasagna,TomatoSauce,2
+Lasagna,Ricotta Cheese,1
+Lasagna,Mozzarella Cheese,8
+Lasagna,Parmesan Cheese,1
+Lasagna,Olive Oil,2
+Bibimbap,Cooked Rice,2
+Bibimbap,Ground Beef,1
+Bibimbap,Vegetables,2
+Bibimbap,Egg,1
+Bibimbap,Gochujang,2
+Bibimbap,Sesame Oil,1
+Chicken Noodle Soup,Chicken breast,1
+Chicken Noodle Soup,Egg Noodles,8
+Chicken Noodle Soup,Carrots,2
+Chicken Noodle Soup,Celery,2
+Chicken Noodle Soup,Onions,1
+Chicken Noodle Soup,Chicken Broth,4
+Hummus and Veggie Wrap,Hummus,1
+Hummus and Veggie Wrap,Vegetables,2
+Hummus and Veggie Wrap,Pita Bread,1
+Beef Bourguignon,Beef chuck roast,2
+Beef Bourguignon,Red wine,1
+Beef Bourguignon,Beef Broth,4
+Beef Bourguignon,Carrots,2
+Beef Bourguignon,Onions,2
+Beef Bourguignon,Garlic,4
+Beef Bourguignon,Tomato Sauce,2
+Beef Bourguignon,Spices,2 
+Fish Tacos,Fish fillets,2
+Fish Tacos,Taco Shells,2
+Fish Tacos,Cabbage,1
+Black Bean Burgers,Black Beans,1
+Black Bean Burgers,Bread,1
+Black Bean Burgers,Egg,1
+Black Bean Burgers,Spices,1
+Black Bean Burgers,Olive Oil,2
+Lentil Soup,Lentils,1
+Lentil Soup,Vegetables,2
+Lentil Soup,Broth,4
+Lentil Soup,Lemon,1
+Lentil Soup,Olive Oil,2
+Chicken Caesar Salad,Chicken breast,1
+Chicken Caesar Salad,Romaine Lettuce,2
+Chicken Caesar Salad,Caesar Dressing,1
+Chicken Caesar Salad,Parmesan Cheese,1
+Chicken Caesar Salad,Croutons,1
+French Toast,Bread,4
+French Toast,Eggs,2
+French Toast,Milk,1
+French Toast,Cinnamon,1  
+French Toast,Sugar,1
+French Toast,Butter,2
+Moussaka,Ground Beef,1
+Moussaka,Eggplant,1
+Moussaka,TomatoSauce,2
+Moussaka,Mozzarella Cheese,8
+Paella Valenciana,Rice,2
+Paella Valenciana,Chicken thighs,2
+Paella Valenciana,Shrimp,1
+Paella Valenciana,Mussels,1
+Paella Valenciana,Saffron,1
+Paella Valenciana,Broth,4
+Paella Valenciana,Vegetables,1
+Paella Valenciana,Olive Oil,2
+Falafel Pita Pockets,Falafel balls,6
+Falafel Pita Pockets,Tahini Sauce,1
+Falafel Pita Pockets,Vegetables,2
+Falafel Pita Pockets,Pickles,1 
+Tom Yum Soup,Shrimp,1
+Tom Yum Soup,Lemongrass stalks,2
+Tom Yum Soup,Kaffir lime leaves,4
+Tom Yum Soup,Galangal root,1
+Tom Yum Soup,Tomatoes,2
+Tom Yum Soup,Tom Yum Paste,2
+Tom Yum Soup,Fish Sauce,1
+Tom Yum Soup,Coconut Milk,1
+Tom Yum Soup,Broth,4
+Tom Yum Soup,Mushrooms,1
+Tom Yum Soup,Lime,1
+Shepherd's Pie,Ground Lamb,1
+Shepherd's Pie,Vegetables,2
+Shepherd's Pie,Beef Broth,2
+Shepherd's Pie,Mashed Potatoes,2
+Shepherd's Pie,Spices,1 
+Pancakes,Flour,1
+Pancakes,Milk,1
+Pancakes,Egg,1
+Pancakes,Sugar,2
+Pancakes,Baking Powder,2 
+Pancakes,Butter,2
+Kimchi Jjigae (Kimchi Stew),Pork belly,1
+Kimchi Jjigae (Kimchi Stew),Tofu,1
+Kimchi Jjigae (Kimchi Stew),Green onions,2
+Kimchi Jjigae (Kimchi Stew),Soy Sauce,2
+Kimchi Jjigae (Kimchi Stew),Gochujang,1
+Kimchi Jjigae (Kimchi Stew),Broth,4
+Green Curry with Chicken,Chicken breast,1
+Green Curry with Chicken,Green Curry Paste,2
+Green Curry with Chicken,Coconut Milk,1
+Green Curry with Chicken,Bell peppers,1
+Green Curry with Chicken,Bamboo shoots,1
+Green Curry with Chicken,Fish Sauce,1
+Green Curry with Chicken,Lime,1
+Green Curry with Chicken,Eggplant,6
+Guacamole,Avocados,2
+Guacamole,Lime,2
+Guacamole,Red onion,1
+Guacamole,Cilantro,1
+Guacamole,Salt,1
+Spaghetti Carbonara,Spaghetti,12
+Spaghetti Carbonara,Eggs,4
+Spaghetti Carbonara,Pancetta,1
+Spaghetti Carbonara,Parmesan Cheese,1
+Spaghetti Carbonara,Black pepper,1
+Fruit Salad,Fruits,4
+Fruit Salad,Lemon,2
+Apple Crumble,Apples,4
+Apple Crumble,Flour,1
+Apple Crumble,Sugar,1
+Apple Crumble,Oats,1
+Apple Crumble,Butter,1
+Chicken Katsu Curry,Chicken breast,1
+Chicken Katsu Curry,Panko breadcrumbs,2
+Chicken Katsu Curry,Eggs,2
+Chicken Katsu Curry,Rice,2
+Chicken Shawarma,Chicken breast,1
+Chicken Shawarma,Marinade,1
+Chicken Shawarma,Pita Bread,2
+Chicken Shawarma,Vegetables,2
+Chicken Shawarma,Tahini Sauce,1
+Hummus Wrap,Hummus,1
+Hummus Wrap,Vegetables,2
+Hummus Wrap,Pita Bread,1
+Potato Leek Soup,Potatoes,2
+Potato Leek Soup,Leeks,1
+Potato Leek Soup,Broth,4
+Potato Leek Soup,Milk,1
+Potato Leek Soup,Thyme,1
+Potato Leek Soup,Butter,2
+Butter Chicken,Chicken breast,1
+Butter Chicken,TomatoSauce,1
+Butter Chicken,Yogurt,1
+Butter Chicken,Butter,2
+Butter Chicken,Garam Masala,2
+Butter Chicken,Ginger,1
+Butter Chicken,Garlic,3
+Butter Chicken,Basmati Rice,1
+Caprese Pasta Salad,Pasta,12
+Caprese Pasta Salad,Cherry Tomatoes,1
+Caprese Pasta Salad,Mozzarella Cheese,8
+Caprese Pasta Salad,Fresh Basil Leaves,1
+Caprese Pasta Salad,Olive Oil,1
+Caprese Pasta Salad,Balsamic Glaze,2
+Ratatouille Tian,Eggplant,11
+Ratatouille Tian,Zucchini,1
+Ratatouille Tian,Tomatoes,4
+Ratatouille Tian,Bell peppers,1
+Ratatouille Tian,Olive Oil,2
+Ratatouille Tian,Garlic,3
+Ratatouille Tian,Fresh Herbs,2
+Chicken and Dumplings,Chicken breast,1
+Chicken and Dumplings,Biscuit dough,1
+Chicken and Dumplings,Vegetables,2
+Chicken and Dumplings,Chicken Broth,4
+Baklava,Filo dough,1
+Baklava,Walnuts,1
+Baklava,Butter,1
+Club Sandwich,Bread,3
+Club Sandwich,Chicken breast,1
+Club Sandwich,Bacon,3
+Club Sandwich,Tomatoes,1
+Club Sandwich,Lettuce,2
+Club Sandwich,Mayonnaise,2
+Beef Vindaloo,Beef chuck roast,1
+Beef Vindaloo,Potatoes,2
+Beef Vindaloo,Tomatoes,1
+Beef Vindaloo,Coconut Milk,1
+Beef Vindaloo,Vindaloo Curry Paste,2
+Beef Vindaloo,Garam Masala,1
+Beef Vindaloo,Ginger,1
+Tuna Noodle Casserole,Tuna,1
+Tuna Noodle Casserole,Egg Noodles,8
+Tuna Noodle Casserole,Cream,1
+Tuna Noodle Casserole,Milk,1
+Tuna Noodle Casserole,Peas,1
+Tuna Noodle Casserole,Cheese,1
+Tuna Noodle Casserole,Bread,1
+Chicken Marsala,Chicken breast,2
+Chicken Marsala,Flour,1
+Chicken Marsala,Mushrooms,8
+Chicken Marsala,Marsala wine,1
+Chicken Marsala,Chicken Broth,2
+Chicken Marsala,Heavy Cream,1
+Chicken Marsala,Parsley,1
+Spring Rolls,Spring Roll Wrappers,1
+Spring Rolls,Filling,2
+Spring Rolls,Vegetable Oil,1
+Egg Salad Sandwich,Eggs,2
+Egg Salad Sandwich,Mayonnaise,2
+Egg Salad Sandwich,Celery,1
+Egg Salad Sandwich,Bread,2
+Tom Kha Gai (Thai Chicken Coconut Soup),Chicken breast,1
+Tom Kha Gai (Thai Chicken Coconut Soup),Lemongrass stalks,2
+Tom Kha Gai (Thai Chicken Coconut Soup),Kaffir lime leaves,4
+Tom Kha Gai (Thai Chicken Coconut Soup),Galangal root,1
+Tom Kha Gai (Thai Chicken Coconut Soup),Tom Yum Paste,1
+Tom Kha Gai (Thai Chicken Coconut Soup),Fish Sauce,1
+Tom Kha Gai (Thai Chicken Coconut Soup),Coconut Milk,1
+Tom Kha Gai (Thai Chicken Coconut Soup),Broth,4
+Tom Kha Gai (Thai Chicken Coconut Soup),Mushrooms,1
+Tom Kha Gai (Thai Chicken Coconut Soup),Lime,1
+Grilled Cheese Sandwich,Bread,2
+Grilled Cheese Sandwich,Butter,1
+Grilled Cheese Sandwich,Cheese,2
+Pan-Seared Salmon with Lemon Butter Sauce,Salmon fillets,2
+Pan-Seared Salmon with Lemon Butter Sauce,Lemon,1
+Pan-Seared Salmon with Lemon Butter Sauce,Butter,4
+Pan-Seared Salmon with Lemon Butter Sauce,Parsley,1
+Pad See Ew,Rice noodles,8
+Pad See Ew,Chicken breast,1
+Pad See Ew,Eggs,2
+Pad See Ew,Broccoli florets,1
+Pad See Ew,Soy Sauce,2
+Pad See Ew,Oyster Sauce,1 
+Pad See Ew,Fish Sauce,1 
+Pad See Ew,Brown Sugar,1
+Pad See Ew,Vegetable Oil,2
+Chicken Stir-fry with Broccoli,Chicken breast,1
+Chicken Stir-fry with Broccoli,Broccoli florets,1
+Chicken Stir-fry with Broccoli,Soy Sauce,2
+Chicken Stir-fry with Broccoli,Ginger,1
+Chicken Stir-fry with Broccoli,Garlic,2
+Chicken Stir-fry with Broccoli,Sesame Oil,1
+Chicken Stir-fry with Broccoli,Olive Oil,2
+Chicken Pot Pie with Puff Pastry,Chicken breast,1
+Chicken Pot Pie with Puff Pastry,Vegetables,2
+Chicken Pot Pie with Puff Pastry,Chicken Broth,2
+Chicken Pot Pie with Puff Pastry,Puff Pastry,1
+Chicken Pot Pie with Puff Pastry,Egg,1 
+Chocolate Chip Cookies,Flour,3
+Chocolate Chip Cookies,Sugar,1
+Chocolate Chip Cookies,Brown Sugar,1
+Chocolate Chip Cookies,Butter,1
+Chocolate Chip Cookies,Eggs,2
+Chocolate Chip Cookies,Vanilla Extract,1 
+Chocolate Chip Cookies,Baking Soda,1 
+Chocolate Chip Cookies,Salt,1 
+Chocolate Chip Cookies,Chocolate Chips,2
+Greek Salad,Tomatoes,2
+Greek Salad,Cucumber,1
+Greek Salad,Red onion,1
+Greek Salad,Olives,1
+Greek Salad,Feta Cheese,1
+Greek Salad,Dried Oregano,1 
+Greek Salad,Olive Oil,1
+Greek Salad,Lemon,2
+Aloo Gobi (Potato and Cauliflower Curry),Potatoes,2
+Aloo Gobi (Potato and Cauliflower Curry),Cauliflower florets,1
+Aloo Gobi (Potato and Cauliflower Curry),Tomatoes,1
+Aloo Gobi (Potato and Cauliflower Curry),Coconut Milk,1
+Aloo Gobi (Potato and Cauliflower Curry),Chickpeas,1
+Aloo Gobi (Potato and Cauliflower Curry),Garam Masala,2
+Aloo Gobi (Potato and Cauliflower Curry),Ginger,1
+Aloo Gobi (Potato and Cauliflower Curry),Garlic,3
+Aloo Gobi (Potato and Cauliflower Curry),Vegetable Oil,2
+Bun Bo Hue,Beef shank,1
+Bun Bo Hue,Star anise,2
+Bun Bo Hue,Cloves,3
+Bun Bo Hue,Cinnamon,1
+Bun Bo Hue,Onions,2
+Bun Bo Hue,Tomatoes,2
+Bun Bo Hue,Tomato Sauce,2
+Bun Bo Hue,Fish Sauce,2
+Bun Bo Hue,Beef Broth,8
+Bun Bo Hue,Rice noodles,8
+Bun Bo Hue,Bean Sprouts,1
+Bun Bo Hue,Fresh Herbs,1
+Ful Medames,Fava beans,1
+Ful Medames,Lemon,1
+Ful Medames,Olive Oil,1
+Ful Medames,Garlic,2
+Ful Medames,Paprika,1
+Ful Medames,Cumin,1
+Ful Medames,Eggs,2
+Ful Medames,Tomatoes,1
+Ful Medames,Parsley,1
+Mofongo (Brazilian Mashed Plantains),Garlic,3
+Mofongo (Brazilian Mashed Plantains),Olive Oil,2
+Mofongo (Brazilian Mashed Plantains),Chicken Broth,1
+Mofongo (Brazilian Mashed Plantains),Pork Rinds,1 
+Bangers and Mash,Sausage,8
+Bangers and Mash,Potatoes,4
+Bangers and Mash,Milk,1
+Bangers and Mash,Butter,2
+Bangers and Mash,Onions,1 
+Etouffee (Cajun Stew),Shrimp,1
+Etouffee (Cajun Stew),Butter,6
+Etouffee (Cajun Stew),Onions,1
+Etouffee (Cajun Stew),Bell peppers,1
+Etouffee (Cajun Stew),Celery,2
+Etouffee (Cajun Stew),Flour,1
+Etouffee (Cajun Stew),Chicken Broth,2
+Etouffee (Cajun Stew),Heavy Cream,1
+Etouffee (Cajun Stew),Hot Sauce,1
+Pho Ga (Vietnamese Chicken Noodle Soup),Chicken,3
+Pho Ga (Vietnamese Chicken Noodle Soup),Onions,1
+Pho Ga (Vietnamese Chicken Noodle Soup),Ginger,1
+Pho Ga (Vietnamese Chicken Noodle Soup),Star anise,2
+Pho Ga (Vietnamese Chicken Noodle Soup),Cloves,12
+Pho Ga (Vietnamese Chicken Noodle Soup),Cassia bark,1
+Pho Ga (Vietnamese Chicken Noodle Soup),Water,2
+Pho Ga (Vietnamese Chicken Noodle Soup),Cilantro,1
+Pierogi (Polish Dumplings),Dough,1
+Pierogi (Polish Dumplings),Filling,2
+Pierogi (Polish Dumplings),Butter,2
+Pierogi (Polish Dumplings),Onions,1
+Empanadas (Argentinian Pastries),Dough,1
+Empanadas (Argentinian Pastries),Filling,2
+Empanadas (Argentinian Pastries),Egg,1
+Gulasch (Hungarian Stew),Beef chuck roast,1
+Gulasch (Hungarian Stew),Onions,2
+Gulasch (Hungarian Stew),Paprika,2
+Gulasch (Hungarian Stew),Tomatoes,1
+Gulasch (Hungarian Stew),Beef Broth,4
+Gulasch (Hungarian Stew),Carrots,2
+Gulasch (Hungarian Stew),Egg Noodles,12
+Colcannon (Irish Mashed Potatoes),Potatoes,4
+Colcannon (Irish Mashed Potatoes),Kale,2
+Colcannon (Irish Mashed Potatoes),Milk,1
+Colcannon (Irish Mashed Potatoes),Butter,2
+Colcannon (Irish Mashed Potatoes),Salt,1
+Bibimbap (Korean Mixed Rice Bowl),Cooked Rice,2
+Bibimbap (Korean Mixed Rice Bowl),Ground Beef,1
+Bibimbap (Korean Mixed Rice Bowl),Vegetables,2
+Bibimbap (Korean Mixed Rice Bowl),Egg,1
+Bibimbap (Korean Mixed Rice Bowl),Gochujang,2
+Bibimbap (Korean Mixed Rice Bowl),Sesame Oil,1
+Jerk Chicken (American Dish),Chicken thighs,1
+Jerk Chicken (American Dish),Jerk marinade,1
+Borsch (Beet Soup),Beets,2
+Borsch (Beet Soup),Beef Broth,4
+Borsch (Beet Soup),Onions,1
+Borsch (Beet Soup),Carrots,1
+Borsch (Beet Soup),Cabbage,2
+Borsch (Beet Soup),Tomato Sauce,2
+Borsch (Beet Soup),Vinegar,2
+Borsch (Beet Soup),Sour Cream,1
+Curried Goat (Mexican Dish),Goat meat,1
+Curried Goat (Mexican Dish),Curry Powder,2
+Curried Goat (Mexican Dish),Coconut Milk,1
+Sauerbraten (German Pot Roast),Beef roast,2
+Sauerbraten (German Pot Roast),Onions,2
+Sauerbraten (German Pot Roast),Carrots,4
+Sauerbraten (German Pot Roast),Red wine vinegar,2
+Sauerbraten (German Pot Roast),Apple cider vinegar,1
+Sauerbraten (German Pot Roast),Water,2
+Sauerbraten (German Pot Roast),Pickling spice,3
+Sauerbraten (German Pot Roast),Bay leaves,2
+Sauerbraten (German Pot Roast),Black peppercorns,1
+Sauerbraten (German Pot Roast),Salt,1
+Bulgogi (Korean Marinated Beef),Beef flank steak,1
+Bulgogi (Korean Marinated Beef),Soy Sauce,1
+Bulgogi (Korean Marinated Beef),Brown Sugar,2
+Bulgogi (Korean Marinated Beef),Sesame Oil,1
+Bulgogi (Korean Marinated Beef),Garlic,2
+Bulgogi (Korean Marinated Beef),Ginger,1
+Bulgogi (Korean Marinated Beef),Green onions,2
+Nigerian Jollof Rice,Rice,2
+Nigerian Jollof Rice,Tomatoes,4
+Nigerian Jollof Rice,Bell peppers,2
+Nigerian Jollof Rice,Onions,2
+Nigerian Jollof Rice,Curry Powder,2
+Nigerian Jollof Rice,Thyme,1
+Nigerian Jollof Rice,Bay leaves,2
+Nigerian Jollof Rice,Vegetable Oil,1
+Nigerian Jollof Rice,Chicken,4
+Sarma (Stuffed Cabbage Leaves),Ground Meat,1
+Sarma (Stuffed Cabbage Leaves),Cabbage,1
+Sarma (Stuffed Cabbage Leaves),Rice,1
+Sarma (Stuffed Cabbage Leaves),Onions,1
+Sarma (Stuffed Cabbage Leaves),TomatoSauce,1
+Sarma (Stuffed Cabbage Leaves),Beef Broth,2
+Gulas (Hungarian Goulash),Beef chuck roast,1
+Gulas (Hungarian Goulash),Onions,2
+Gulas (Hungarian Goulash),Paprika,2
+Gulas (Hungarian Goulash),Tomatoes,1
+Gulas (Hungarian Goulash),Beef Broth,4
+Gulas (Hungarian Goulash),Carrots,2
+Gulas (Hungarian Goulash),Egg Noodles,12
+Pirozhki (Russian Savory Buns),Dough,1
+Pirozhki (Russian Savory Buns),Filling,2
+Pirozhki (Russian Savory Buns),Egg,1 
+Chicken Kyiv (Chicken Kiev),Chicken breast,2
+Chicken Kyiv (Chicken Kiev),Cold Butter,2
+Chicken Kyiv (Chicken Kiev),Fresh Herbs,1
+Chicken Kyiv (Chicken Kiev),Garlic,1
+Chicken Kyiv (Chicken Kiev),Panko,2
+Chicken Kyiv (Chicken Kiev),Eggs,2
+Borscht (Ukrainian Borscht),Beets,2
+Borscht (Ukrainian Borscht),Beef Broth,4
+Borscht (Ukrainian Borscht),Onions,1
+Borscht (Ukrainian Borscht),Carrots,1
+Borscht (Ukrainian Borscht),Cabbage,2
+Borscht (Ukrainian Borscht),Tomato Sauce,2
+Borscht (Ukrainian Borscht),Vinegar,2
+Borscht (Ukrainian Borscht),Bay leaves,2
+Borscht (Ukrainian Borscht),Sour Cream,1
+Shakshuka (Israeli Eggs in Spicy Tomato Sauce),Eggs,4
+Shakshuka (Israeli Eggs in Spicy Tomato Sauce),Tomatoes,4
+Shakshuka (Israeli Eggs in Spicy Tomato Sauce),Onions,2
+Palačinky (Czech Sweet Crepes),Flour,2
+Palačinky (Czech Sweet Crepes),Milk,2
+Palačinky (Czech Sweet Crepes),Eggs,4
+Palačinky (Czech Sweet Crepes),Sugar,2 
+Palačinky (Czech Sweet Crepes),Salt,1 
+Pörkölt (Hungarian Pork Stew),Pork shoulder,1
+Pörkölt (Hungarian Pork Stew),Onions,2
+Pörkölt (Hungarian Pork Stew),Paprika,2
+Pörkölt (Hungarian Pork Stew),Tomatoes,1
+Pörkölt (Hungarian Pork Stew),Beef Broth,2
+Pörkölt (Hungarian Pork Stew),Carrots,2
+Pörkölt (Hungarian Pork Stew),Egg Noodles,12
+Fiš paprikaš (Hungarian Fish Stew),Fish fillets,1
+Fiš paprikaš (Hungarian Fish Stew),Onions,2
+Fiš paprikaš (Hungarian Fish Stew),Paprika,1
+Fiš paprikaš (Hungarian Fish Stew),Tomatoes,1
+Fiš paprikaš (Hungarian Fish Stew),White Wine,1
+Fiš paprikaš (Hungarian Fish Stew),Fish Broth,4
+Fiš paprikaš (Hungarian Fish Stew),Bell peppers,1
+Špekáčky (Grilled sausages),Špekáčky sausages,8
+Burek (Serbian Savory Pie),Filo dough,1
+Burek (Serbian Savory Pie),Filling,2
+Burek (Serbian Savory Pie),Eggs,2
+Burek (Serbian Savory Pie),Butter,1
+Ajvar (Serbian Pepper Spread),Red bell pepper,4
+Ajvar (Serbian Pepper Spread),Eggplant,1
+Ajvar (Serbian Pepper Spread),Garlic,2
+Ajvar (Serbian Pepper Spread),Olive Oil,1
+Ajvar (Serbian Pepper Spread),Vinegar,1
+Cottage Cheese Pancakes (Serbian Palačinke),Flour,1
+Cottage Cheese Pancakes (Serbian Palačinke),Cottage Cheese,1
+Cottage Cheese Pancakes (Serbian Palačinke),Milk,1
+Cottage Cheese Pancakes (Serbian Palačinke),Eggs,2
+Cottage Cheese Pancakes (Serbian Palačinke),Sugar,1
+Cottage Cheese Pancakes (Serbian Palačinke),Olive Oil,2
+Chicken Paprikash (Hungarian Paprika Chicken),Chicken thighs,1
+Chicken Paprikash (Hungarian Paprika Chicken),Onions,2
+Chicken Paprikash (Hungarian Paprika Chicken),Paprika,2
+Chicken Paprikash (Hungarian Paprika Chicken),Sour Cream,1
+Chicken Paprikash (Hungarian Paprika Chicken),Chicken Broth,2
+Chicken Paprikash (Hungarian Paprika Chicken),Egg Noodles,12
+Fish and Chips (English Classic),Fish fillets,1
+Fish and Chips (English Classic),Beer,1
+Fish and Chips (English Classic),Flour,1
+Fish and Chips (English Classic),Vegetable Oil,5
+Chicken Kiev Pie (English),Chicken breast,2
+Chicken Kiev Pie (English),Puff Pastry,1
+Chicken Kiev Pie (English),Mushrooms,1
+Chicken Kiev Pie (English),Cream sauce,1
+Ukrainian Borscht with Meatballs,Ground Beef,1
+Kreplach (Jewish Dumplings),Dough,1
+Kreplach (Jewish Dumplings),Filling,2
+Kreplach (Jewish Dumplings),Chicken Broth,4
+Solyanka (Russian Meat Stew),Beef,1
+Solyanka (Russian Meat Stew),Sausage,3
+Ceviche,White fish,2
+Ceviche,Shrimp,2
+Ceviche,Lime,2
+Ceviche,Red onion,1
+Ceviche,Cilantro,1
+Ceviche,Avocado,1
+Coq au Vin,Chicken,2
+Coq au Vin,Red wine,1
+Coq au Vin,Onions,1
+Coq au Vin,Carrots,1
+Coq au Vin,Mushrooms,1
+Coq au Vin,Garlic,2
+Gyoza,Ground pork,2
+Gyoza,Cabbage,1
+Gyoza,Garlic,2
+Gyoza,Ginger,1
+Gyoza,Soy Sauce,1
+Chicken Curry,Chicken breast,2
+Chicken Curry,Coconut Milk,1
+Chicken Curry,Onions,1
+Chicken Curry,Garlic,2
+Chicken Curry,Ginger,1
+Chicken Curry,Coriander,1
+Sauerbraten,Beef chuck roast,2
+Sauerbraten,Red wine vinegar,1
+Sauerbraten,Onions,1
+Sauerbraten,Carrots,1
+Sauerbraten,Juniper berries,1
+Sauerbraten,Cloves,1
+Falafel,Chickpeas,2
+Falafel,Onions,1
+Falafel,Garlic,2
+Falafel,Parsley,1
+Falafel,Cumin,1
+Goulash,Beef chuck roast,2
+Goulash,Onions,1
+Goulash,Red peppers,1
+Goulash,Paprika,1
+Goulash,Caraway seeds,1
+Risotto,Arborio rice,2
+Risotto,Chicken broth,1
+Risotto,Onions,1
+Risotto,Garlic,2
+Risotto,Butter,1
+Risotto,White Wine,1
+Tiramisu,Mascarpone cheese,2
+Tiramisu,Coffee,2
+Tiramisu,Ladyfingers,1
+Tiramisu,Cocoa powder,1
+Croissants,Flour,2
+Croissants,Butter,1
+Croissants,Milk,1
+Croissants,Yeast,1
+Croissants,Sugar,1
+Miso Soup,Tofu,2
+Miso Soup,Seaweed,1
+Miso Soup,Green onions,1
+Miso Soup,Dashi,1
+Tandoori Chicken,Chicken,2
+Tandoori Chicken,Yogurt,1
+Tandoori Chicken,Ginger,1
+Tandoori Chicken,Garlic,2
+Tandoori Chicken,Garam Masala,1
+Ćevapčići (Grilled Minced Meat Rolls),Ground Beef,2
+Ćevapčići (Grilled Minced Meat Rolls),Onions,1
+Ćevapčići (Grilled Minced Meat Rolls),Garlic,2
+Ćevapčići (Grilled Minced Meat Rolls),Paprika,1
+Pljeskavica (Grilled Flatbread Burger),Ground Beef,2
+Pljeskavica (Grilled Flatbread Burger),Onions,1
+Pljeskavica (Grilled Flatbread Burger),Garlic,2
+Pljeskavica (Grilled Flatbread Burger),Paprika,1
+Punjene Paprike (Stuffed Peppers),Bell peppers,2
+Punjene Paprike (Stuffed Peppers),Ground Beef,1
+Punjene Paprike (Stuffed Peppers),Rice,1
+Punjene Paprike (Stuffed Peppers),Tomatoes,1
+Punjene Paprike (Stuffed Peppers),Onions,1
+Gibanica (Savory Pie),Filo dough,2
+Gibanica (Savory Pie),Eggs,2
+Gibanica (Savory Pie),Feta Cheese,1
+Gibanica (Savory Pie),Yogurt,1
+Pasulj (Bean Stew),White beans,2
+Pasulj (Bean Stew),Onions,1
+Pasulj (Bean Stew),Carrots,1
+Pasulj (Bean Stew),Celery,1
+Pasulj (Bean Stew),Garlic,2
+Popara (Cornbread with Cheese),Cornbread,2
+Popara (Cornbread with Cheese),Milk,1
+Popara (Cornbread with Cheese),Cheese,1
+Zeljanka (Sauerkraut Stew),Sauerkraut,2
+Zeljanka (Sauerkraut Stew),Potatoes,1
+Zeljanka (Sauerkraut Stew),Sausage,1
+Zeljanka (Sauerkraut Stew),Onions,1
+Zeljanka (Sauerkraut Stew),Garlic,2

@@ -163,13 +163,19 @@ def fill_Thematic_Unit():
         # The connection is automatically closed when exiting the 'with connection' block
         print("Database connection closed.")
 
-def fill_basic_ingredients():
+def fill_ingredients():
+    df = pd.read_csv('ingredients.csv', encoding='utf-8')
+    df['name2'] = df['name'].str.lower()
+    df.drop_duplicates(subset='name2', inplace=True)
+    df.drop(columns=['name2'], inplace=True)
+    pd.DataFrame(df).to_csv('ingredients.csv', index=False)
+    row = []
     connection = connect()
     try:
         with connection:
             with connection.cursor() as cursor:
                 sql = "INSERT INTO Ingredients (name, caloriesper100grams, Food_Category_name) VALUES (%s, %s, %s)"
-                with open('ingredients.csv', 'r') as file:
+                with open('ingredients.csv', 'r', encoding='utf-8') as file:
                     csv_data = csv.reader(file)
                     next(csv_data)  # Skip the header row
                     for row in csv_data:
@@ -177,6 +183,7 @@ def fill_basic_ingredients():
                 
             connection.commit()
     except Exception as e:
+        print(row)
         print("Error:", e)
     finally:
         # The connection is automatically closed when exiting the 'with connection' block
@@ -308,11 +315,11 @@ def fill_Recipies_has_Equipment():
     df_from_recipes = df_from_recipes[['Equipment_name']]
     df_from_recipes.drop_duplicates(keep="first", inplace=True)
     df_from_recipes.sort_values(by='Equipment_name', inplace=True)
-    pd.DataFrame(df_from_recipes).to_csv('equipment_names_from_recipes.csv', index=False)"""
+    pd.DataFrame(df_from_recipes).to_csv('equipment_names_from_recipes.csv', index=False)
 
     df = pd.read_csv('recipies_has_equipment.csv', encoding='utf-8')
     df.drop_duplicates(keep="first", inplace=True)
-    pd.DataFrame(df).to_csv('recipies_has_equipment.csv', index=False)
+    pd.DataFrame(df).to_csv('recipies_has_equipment.csv', index=False)"""
     connection = connect()
     row = []
     try:
@@ -377,19 +384,79 @@ def fill_Tips():
         print("Database connection closed.")
 
 
-#fill_Professional_Expertise()
-#fill_Cook()
-#fill_National_Cuisine()
-#fill_Meal_Form()
-#fill_Food_Category()
-#fill_Equipment()
-#fill_Etiquette()
-#fill_Thematic_Unit()
-#fill_basic_ingredients()
-#fill_Recipies()
-#fill_Steps()
-#fill_Recipies_has_Steps()
-#fill_Recipies_Etiquettes()
-#fill_Recipies_has_Equipment()
-#fill_Recipies_Meal()
-#fill_Tips()
+
+def fill_Cook_has_Specialisation():
+    connection = connect()
+    row = []
+    try:
+        with connection:
+            with connection.cursor() as cursor:
+                sql = "INSERT INTO Has_specialisation (National_Cuisine_name, Cook_Name, Cook_surname) VALUES (%s, %s,%s)"
+                with open('has_specialisation.csv', 'r', encoding='utf-8') as file:
+                    csv_data = csv.reader(file)
+                    next(csv_data)  # Skip the header row
+                    for row in csv_data:
+                        cursor.execute(sql, (row[2], row[0], row[1]))
+                
+            connection.commit()
+    except Exception as e:
+        print(row)
+        print("Error:", e)
+    finally:
+        # The connection is automatically closed when exiting the 'with connection' block
+        print("Database connection closed.")
+
+
+def fill_Recipies_Has_Ingredients():
+    """
+    df_basic_ingredients = pd.read_csv('ingredients.csv', encoding='utf-8')
+    df_basic_ingredients = df_basic_ingredients[['name']]
+    df_basic_ingredients.drop_duplicates(keep="first", inplace=True)
+    
+    df_recipe_ingredients = pd.read_csv('recipies_has_ingredients.csv', encoding='utf-8')
+    df_recipe_ingredients = df_recipe_ingredients[['ingredient_name']]
+    df_recipe_ingredients.drop_duplicates(keep="first", inplace=True)
+    cond = df_recipe_ingredients.isin(df_basic_ingredients.to_dict(orient='list')).all(axis=1)
+    df_recipe_ingredients = df_recipe_ingredients[~cond]
+    df_recipe_ingredients.sort_values(by='ingredient_name', inplace=True)
+    pd.DataFrame(df_recipe_ingredients).to_csv('extra_ingredients_names.csv', index=False)
+    """
+
+    connection = connect()
+    row = []
+    try:
+        with connection:
+            with connection.cursor() as cursor:
+                sql = "INSERT INTO Recipies_has_Ingredients (Recipies_name, Ingredients_Name, quantity) VALUES (%s, %s,%s)"
+                with open('recipies_has_ingredients.csv', 'r', encoding='utf-8') as file:
+                    csv_data = csv.reader(file)
+                    next(csv_data)  # Skip the header row
+                    for row in csv_data:
+                        cursor.execute(sql, (row[0], row[1], row[2]))
+                
+            connection.commit()
+    except Exception as e:
+        print(row)
+        print("Error:", e)
+    finally:
+        # The connection is automatically closed when exiting the 'with connection' block
+        print("Database connection closed.")
+
+fill_Professional_Expertise()
+fill_Cook()
+fill_National_Cuisine()
+fill_Meal_Form()
+fill_Food_Category()
+fill_Equipment()
+fill_Etiquette()
+fill_Thematic_Unit()
+fill_ingredients()
+fill_Recipies()
+fill_Steps()
+fill_Recipies_has_Steps()
+fill_Recipies_Etiquettes()
+fill_Recipies_has_Equipment()
+fill_Recipies_Meal()
+fill_Tips()
+fill_Cook_has_Specialisation()
+fill_Recipies_Has_Ingredients()
