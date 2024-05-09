@@ -6,7 +6,7 @@ def connect():
     # Connect to the database
     connection = pymysql.connect(host='localhost',
                                 user='root',
-                                password='otinanai',
+                                password='admin123',
                                 database='mydb',
                                 cursorclass=pymysql.cursors.DictCursor)
     return connection
@@ -334,6 +334,26 @@ def fill_Recipies_has_Equipment():
         print("Database connection closed.")
 
 
+def fill_Recipies_Meal():
+    connection = connect()
+    row = []
+    try:
+        with connection:
+            with connection.cursor() as cursor:
+                sql = "INSERT INTO Meal_has_Recipies (Meal_Meal_Form, Recipies_name) VALUES (%s, %s)"
+                with open('meal_has_recipies.csv', 'r', encoding='utf-8') as file:
+                    csv_data = csv.reader(file)
+                    next(csv_data)  # Skip the header row
+                    for row in csv_data:
+                        cursor.execute(sql, (row[1], row[0]))
+                
+            connection.commit()
+    except Exception as e:
+        print(row)
+        print("Error:", e)
+    finally:
+        # The connection is automatically closed when exiting the 'with connection' block
+        print("Database connection closed.")
 
 
 #fill_Professional_Expertise()
@@ -349,4 +369,5 @@ def fill_Recipies_has_Equipment():
 #fill_Steps()
 #fill_Recipies_has_Steps()
 #fill_Recipies_Etiquettes()
-fill_Recipies_has_Equipment()
+#fill_Recipies_has_Equipment()
+fill_Recipies_Meal()
