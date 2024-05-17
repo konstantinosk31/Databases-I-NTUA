@@ -464,6 +464,25 @@ def fill_Recipies_has_Thematic_Unit():
         # The connection is automatically closed when exiting the 'with connection' block
         print("Database connection closed.")
 
+def fill_Episode():
+    connection = connect()
+    try:
+        with connection:
+            with connection.cursor() as cursor:
+                sql = "INSERT INTO Episode (episode_number) VALUES (%s)"
+                with open('episode.csv', 'r') as file:
+                    csv_data = csv.reader(file)
+                    next(csv_data)  # Skip the header row
+                    for row in csv_data:
+                        cursor.execute(sql, row[0])
+                
+            connection.commit()
+    except Exception as e:
+        print("Error:", e)
+    finally:
+        # The connection is automatically closed when exiting the 'with connection' block
+        print("Database connection closed.") 
+
 fill_Professional_Expertise()
 fill_Cook()
 fill_National_Cuisine()
@@ -483,3 +502,4 @@ fill_Tips()
 fill_Cook_has_Specialisation()
 fill_Recipies_Has_Ingredients()
 fill_Recipies_has_Thematic_Unit()
+fill_Episode()
