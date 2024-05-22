@@ -1,131 +1,131 @@
-difficulty,name,description,preparation_time,cooking_time,fat,protein,carbs,cooking_or_pastry,basic_ingredient_name,National_Cuisine_name
-3,Spiced Chickpea Curry with Coconut Milk,Aromatic and flavorful chickpea curry simmered in coconut milk with warming spices.,15,30,15,20,40,0,Chickpeas,Indian
-2,One-Pan Lemon Garlic Salmon with Asparagus,"Simple and delicious salmon dish with roasted asparagus, flavored with lemon and garlic.",10,20,20,30,5,0,Salmon,American
-4,Penne Arrabbiata,Classic Italian pasta dish with a spicy tomato sauce.,15,20,10,15,30,0,Penne,Italian
-5,Chicken Fajitas,"Grilled chicken strips with peppers and onions, served on warm tortillas with your favorite toppings.",20,20,25,30,15,0,Chicken breast,Mexican
-5,Beef and Broccoli Stir-fry,"A quick and easy stir-fry with tender beef, broccoli florets, and a savory sauce.",15,20,20,30,20,0,Beef flank steak,Chinese
-2,Tuscan White Bean Soup,"Hearty and flavorful soup made with cannellini beans, kale, and Italian sausage.",20,30,15,20,40,0,Cannellini beans,Italian
-3,Greek Yogurt Marinade Chicken Souvlaki,"Marinated chicken skewers grilled to perfection, served with a cool and creamy tzatziki sauce.",20,20,20,30,5,0,Chicken breast,Greek
-4,Pad Thai,"Stir-fried rice noodles with vegetables, egg, and protein of your choice, seasoned with a flavorful tamarind sauce.",20,20,20,20,40,0,Rice noodles,Thai
-3,Ratatouille,"French vegetable stew made with eggplant, zucchini, tomatoes, peppers, and herbs.",20,40,10,15,30,0,Eggplant,French
-3,Chicken Tikka Masala,Creamy Indian curry with tender chicken pieces in a spiced tomato sauce.,20,30,20,30,30,0,Chicken breast,Indian
-2,Caprese Salad,"Simple and refreshing salad with sliced tomatoes, fresh mozzarella, basil leaves, and a drizzle of olive oil.",10,5,10,15,10,0,Tomato,Italian
-4,Beef Stroganoff,Classic comfort food with tender beef strips in a creamy mushroom sauce served over egg noodles.,20,30,25,30,30,0,Beef sirloin,Russian
-5,Kung Pao Chicken,"Spicy stir-fried chicken with peanuts, vegetables, and chili peppers.",15,20,25,30,20,0,Chicken breast,Chinese
-3,Salmon with Lemon Dill Sauce,Baked salmon with a bright and flavorful lemon dill sauce.,15,20,20,30,5,0,Salmon,French
-1,Scrambled Eggs,"Quick and easy breakfast dish made with eggs, milk, and your favorite seasonings.",5,10,10,15,5,0,Eggs,American
-3,Pasta Primavera,Spring vegetable pasta dish with a light and creamy sauce.,20,20,15,15,30,0,Penne,Italian
-5,Beef Wellington,Luxurious dish with tenderloin steak wrapped in puff pastry and duxelles (mushroom mixture).,40,60,40,40,30,1,Beef tenderloin,English
-2,Tuna Salad Sandwich,"Classic and easy lunch option with canned tuna, mayonnaise, celery, and onion on toasted bread.",10,5,15,20,20,0,Canned tuna,American
-4,Chicken Pot Pie,"Hearty and comforting casserole with chicken, vegetables, and a flaky pastry crust.",30,60,25,30,40,1,Chicken breast,American
-5,Sushi Bake,"Baked casserole with sushi rice, vegetables, seafood, and a savory sauce.",20,30,20,30,40,0,Sushi rice,Japanese
-2,Greek Yogurt Parfait with Granola and Berries,"Healthy and delicious breakfast parfait with layers of Greek yogurt, granola, and fresh berries.",10,5,10,15,20,0,Greek yogurt,Greek
-3,Shakshuka,"Algerian dish of poached eggs in a spicy tomato and pepper sauce, served with crusty bread.",15,20,15,20,20,0,Eggs,Algerian
-4,Chicken Alfredo,"Creamy pasta dish with tender chicken, fettuccine noodles, and a rich Alfredo sauce.",20,20,25,30,30,0,Chicken breast,Italian
-5,Tacos,"Classic Mexican dish with seasoned meat, lettuce, cheese, and salsa, served in a warm tortilla.",15,20,20,30,20,0,Ground beef,Mexican
-3,Mushroom Risotto,"Creamy and flavorful Italian rice dish made with Arborio rice, mushrooms, and Parmesan cheese.",20,30,15,20,30,0,Arborio rice,Italian
-2,Avocado Toast,"Simple and healthy breakfast option with mashed avocado on toasted bread, topped with seasonings and toppings of your choice.",10,5,10,15,10,0,Avocado,American
-4,Lasagna,"Classic Italian pasta dish with layers of pasta, meat sauce, and cheese, baked to perfection.",30,60,30,40,40,0,Lasagna noodles,Italian
-5,Bibimbap,"Korean rice bowl with assorted vegetables, meat, and a spicy gochujang sauce, topped with a fried egg.",30,30,20,30,30,0,Rice,Korean
-3,Chicken Noodle Soup,"Comforting and nourishing soup with chicken, vegetables, and noodles in a flavorful broth.",20,30,10,15,20,0,Chicken breast,American
-2,Hummus and Veggie Wrap,"Healthy and satisfying wrap with hummus, fresh vegetables, and a whole wheat tortilla.",10,10,10,15,10,0,Hummus,Arabic
-4,Beef Bourguignon,"Classic French beef stew cooked in red wine with mushrooms, onions, and bacon.",30,60,30,40,40,0,Beef chuck roast,French
-5,Fish Tacos,"Fresh and flavorful tacos with grilled fish, cabbage slaw, and a creamy sauce, served in warm tortillas.",20,20,20,30,10,0,White fish,Mexican
-2,Black Bean Burgers,"Vegetarian burgers made with black beans, corn, and spices, served on buns with your favorite toppings.",15,20,10,20,30,0,Black beans,Mexican
-4,Lentil Soup,"Hearty and protein-packed soup made with lentils, vegetables, and herbs.",20,40,10,25,40,0,Lentils,Turkish
-3,Chicken Caesar Salad,"Classic salad with grilled chicken, romaine lettuce, Parmesan cheese, croutons, and Caesar dressing.",20,15,20,30,10,0,Chicken breast,American
-2,French Toast,Sweet breakfast dish made with bread dipped in egg batter and fried.,10,10,20,15,20,1,Bread,French
-3,Moussaka,"Greek layered casserole with ground meat, eggplant, potatoes, and a creamy béchamel sauce.",30,60,25,30,40,0,Ground lamb,Greek
-4,Paella Valenciana,"Traditional Spanish rice dish with seafood, chicken, vegetables, and saffron.",30,40,20,30,40,0,Rice,Spanish
-2,Falafel Pita Pockets,"Crispy falafel balls made with chickpeas and spices, served in pita bread with hummus and vegetables.",15,20,15,20,30,0,Chickpeas,Lebanese
-3,Tom Yum Soup,"Hot and sour Thai soup with shrimp, mushrooms, lemongrass, and kaffir lime leaves.",20,30,10,20,30,0,Shrimp,Thai
-4,Shepherd's Pie,"Hearty comfort food with ground lamb, mashed potatoes, and vegetables.",20,40,25,30,40,0,Ground lamb,English
-1,Pancakes,"Fluffy and delicious breakfast dish made with flour, milk, and eggs.",10,10,15,10,25,1,Flour,American
-3,Kimchi Jjigae (Kimchi Stew),"Spicy Korean stew with kimchi (fermented cabbage), pork, tofu, and vegetables.",20,30,15,25,30,0,Kimchi,Korean
-4,Green Curry with Chicken,"Thai curry with green curry paste, chicken, vegetables, and coconut milk.",20,20,20,30,30,0,Chicken breast,Thai
-2,Guacamole,"Simple and delicious avocado dip with lime juice, cilantro, and spices.",10,10,15,2,5,0,Avocado,Mexican
-3,Spaghetti Carbonara,"Classic Italian pasta dish with eggs, Parmesan cheese, bacon, and black pepper.",20,20,25,20,30,0,Spaghetti,Italian
-2,Fruit Salad,Refreshing and healthy mix of fresh fruits.,10,5,5,2,15,0,Fruits (various),Scottish
-5,Apple Crumble,"Warm and comforting dessert with apples, a crumbly topping, and vanilla ice cream.",20,40,20,5,40,1,Apples,American
-4,Chicken Katsu Curry,Japanese dish with breaded and fried chicken cutlets served with a savory curry sauce and rice.,30,30,25,30,30,0,Chicken breast,Japanese
-3,Chicken Shawarma,"Arabic dish with marinated and grilled chicken, served in a pita with tahini sauce and vegetables.",20,20,20,30,20,0,Chicken breast,Arabic
-2,Hummus Wrap,Chickpea-based spread wrapped in a pita bread with vegetables and tahini sauce.,10,10,10,10,30,0,Hummus,Lebanese
-3,Potato Leek Soup,"Creamy and flavorful soup with potatoes, leeks, and chicken broth.",20,30,15,10,30,0,Potatoes,French
-4,Butter Chicken,Indian dish with tender chicken in a creamy tomato sauce flavored with butter.,20,30,25,30,20,0,Chicken breast,Indian
-2,Caprese Pasta Salad,"Cold pasta salad with tomatoes, mozzarella, fresh basil, and a light vinaigrette.",15,10,15,15,30,0,Pasta,Italian
-4,Ratatouille Tian,"Provençal vegetable dish layered with eggplant, zucchini, tomatoes, peppers, and herbs.",25,40,10,10,30,0,Eggplant,French
-3,Chicken and Dumplings,"Southern comfort food with chicken, vegetables, and fluffy dumplings.",30,60,20,30,40,0,Chicken breast,American
-5,Baklava,"Rich and flaky pastry with layers of filo dough, nuts, and honey syrup.",40,60,30,10,40,1,Filo dough,Turkish
-2,Club Sandwich,"Classic triple-decker sandwich with toasted bread, chicken, bacon, lettuce, tomato, and mayonnaise.",15,10,20,25,30,0,Bread,American
-3,Beef Vindaloo,"Spicy Indian curry with beef, potatoes, and a hot vindaloo sauce.",20,30,25,30,20,0,Beef chuck roast,Indian
-2,Tuna Noodle Casserole,"Easy and comforting casserole with tuna, noodles, vegetables, and a creamy cheese sauce.",20,30,20,20,30,0,Canned tuna,American
-3,Chicken Marsala,"Italian dish with chicken, mushrooms, Marsala wine, and a creamy sauce.",25,30,25,30,20,0,Chicken breast,Italian
-4,Spring Rolls,"Crispy fried rolls filled with vegetables, meat, or seafood.",20,20,20,15,30,1,Spring roll wrapper,Chinese
-2,Egg Salad Sandwich,"Classic lunch option with hard-boiled eggs, mayonnaise, mustard, and celery on toasted bread.",10,5,15,10,20,0,Eggs,American
-3,Tom Kha Gai (Thai Chicken Coconut Soup),"Thai soup with chicken, coconut milk, galangal, lemongrass, and kaffir lime leaves.",20,30,20,25,20,0,Chicken breast,Thai
-1,Grilled Cheese Sandwich,Simple and delicious sandwich with melted cheese between two slices of toasted bread.,5,10,20,15,20,0,Bread,American
-4,Beef Enchiladas,"Mexican dish with tortillas filled with seasoned ground beef, topped with enchilada sauce and cheese.",25,30,25,30,30,0,Ground beef,Mexican
-3,Pan-Seared Salmon with Lemon Butter Sauce,Simple and elegant dish with salmon fillets pan-seared and finished with a lemon butter sauce.,15,20,20,30,5,0,Salmon,French
-4,Pad See Ew,"Thai stir-fried rice noodles with chicken, eggs, vegetables, and a savory sauce.",20,20,20,25,30,0,Rice noodles,Thai
-2,Chicken Stir-fry with Broccoli,"Quick and easy stir-fry with chicken, broccoli florets, and a soy sauce-based sauce.",15,20,15,30,20,0,Chicken breast,Chinese
-3,Chicken Pot Pie with Puff Pastry,"Classic comfort food with chicken, vegetables, and a flaky puff pastry crust.",30,60,25,30,40,1,Chicken breast,American
-5,Chocolate Chip Cookies,Classic and chewy cookies packed with chocolate chips.,20,15,20,5,30,1,Flour,American
-2,Greek Salad,"Refreshing and healthy salad with tomatoes, cucumbers, olives, feta cheese, and a lemon-oregano dressing.",10,10,10,15,10,0,Tomato,Greek
-2,Aloo Gobi (Potato and Cauliflower Curry),"Simple and flavorful Indian curry with potatoes, cauliflower, and spices.",15,30,10,15,30,0,Potatoes,Indian
-3,Bun Bo Hue,"Spicy Vietnamese noodle soup with beef, pork, vegetables, and lemongrass.",25,40,20,30,30,0,Beef,Vietnamese
-4,Ful Medames,"Egyptian dish with fava beans, mashed with olive oil, lemon juice, and spices, served with pita bread.",20,30,15,20,40,0,Fava beans,Egyptian
-2,Mofongo (Brazilian Mashed Plantains),"Mashed plantains fried until crispy on the outside, served with savory toppings like meat or seafood.",20,30,20,10,40,0,Plantains,Brazilian
-3,Bangers and Mash,"English dish with sausages and mashed potatoes, often served with gravy and peas.",20,30,25,30,40,0,Sausages,English
-3,Etouffee (Cajun Stew),"Spicy Cajun stew with seafood, vegetables, and a rich roux sauce.",25,40,25,30,30,0,Shrimp,Brazilian
-4,Pho Ga (Vietnamese Chicken Noodle Soup),"Clear and flavorful Vietnamese soup with chicken, rice noodles, herbs, and lime juice.",20,60,15,30,40,0,Chicken,Vietnamese
-2,Pierogi (Polish Dumplings),"Savory dumplings filled with potatoes, cheese, meat, or vegetables, boiled or pan-fried.",20,30,15,20,30,0,Dough,Polish
-3,Empanadas (Argentinian Pastries),"Baked or fried pastries filled with savory ingredients like meat, cheese, or vegetables.",25,40,20,20,30,1,Dough,Argentinian
-3,Gulasch (Hungarian Stew),"Hearty Hungarian stew with beef, vegetables, paprika, and sour cream.",20,60,25,30,30,0,Beef,Hungarian
-2,Colcannon (Irish Mashed Potatoes),Traditional Irish mashed potatoes with mashed kale or cabbage.,15,30,15,10,40,0,Potatoes,Irish
-4,Bibimbap (Korean Mixed Rice Bowl),"Korean dish with rice, vegetables, meat, egg, and a spicy gochujang sauce.",20,20,20,25,30,0,Rice,Korean
-3,Jerk Chicken (American Dish),"Marinated chicken with jerk seasoning, grilled or smoked for a smoky flavor.",20,40,20,30,5,0,Chicken,American
-2,Borsch (Beet Soup),"Serbian soup made with beets, vegetables, and meat (optional).",20,40,10,20,30,0,Beets,Serbian
-3,Curried Goat (Mexican Dish),"Hearty Mexican stew with goat meat, vegetables, and curry powder.",25,60,25,30,20,0,Goat meat,Mexican
-2,Lumpia (Thai Spring Rolls),"Savory spring rolls filled with meat or vegetables, fried until golden brown.",15,20,20,15,30,1,Spring roll wrapper,Thai
-4,Tom Kha Kai Kai Dao (Thai Coconut Curry Omelet),"Thai curry with chicken, coconut milk, vegetables, and a fluffy omelet.",20,30,20,25,20,0,Chicken breast,Thai
-3,Sauerbraten (German Pot Roast),"German pot roast marinated in vinegar and spices, cooked until tender and flavorful.",40,180,25,30,20,0,Beef chuck roast,German
-4,Bulgogi (Korean Marinated Beef),"Thinly sliced beef marinated in soy sauce, garlic, and ginger, grilled or pan-fried.",20,20,20,30,5,0,Beef,Korean
-2,Nigerian Jollof Rice,"Spicy rice dish with tomatoes, peppers, onions, and spices.",15,40,10,15,30,0,Rice,Nigerian
-2,Sarma (Stuffed Cabbage Leaves),Popular Serbian dish with seasoned ground meat and rice stuffed in cabbage leaves and simmered.,20,60,20,25,40,0,Cabbage,Croatian
-3,Gulas (Hungarian Goulash),"Hearty Hungarian stew with beef, vegetables, paprika, and tomatoes, similar to Hungarian Gulasch but with a tomato base.",20,60,25,30,30,0,Beef,Hungarian
-4,Pirozhki (Russian Savory Buns),"Baked or fried buns filled with savory fillings like meat, potatoes, or vegetables.",20,40,20,20,30,1,Dough,Russian
-3,Chicken Kyiv (Chicken Kiev),"Ukrainian dish with breaded chicken breast filled with butter and herbs, pan-fried until golden brown.",25,30,25,30,20,0,Chicken breast,Ukrainian
-1,Borscht (Ukrainian Borscht),"Ukrainian beetroot soup with vegetables, meat (optional), and sour cream. Lighter version of Borsch compared to Serbian version.",20,40,10,20,30,0,Beets,Ukrainian
-3,Shakshuka (Israeli Eggs in Spicy Tomato Sauce),"Israeli dish with eggs poached in a spicy tomato sauce with peppers, onions, and spices.",20,20,20,15,30,0,Eggs,Israeli
-2,Palačinky (Czech Sweet Crepes),"Thin Czech pancakes filled with sweet fillings like fruit, jam, or chocolate.",15,20,15,10,30,1,Flour,Czech
-3,Pörkölt (Hungarian Pork Stew),"Hungarian stew with pork, onions, paprika, and tomatoes, similar to Goulash but with a focus on pork.",20,60,25,30,30,0,Pork,Hungarian
-3,Fiš paprikaš (Hungarian Fish Stew),"Hungarian stew with freshwater fish, vegetables, paprika, and tomatoes.",20,40,20,30,30,0,Fish (freshwater),Hungarian
-3,Špekáčky (Grilled Sausages),Popular Czech grilled sausages often served with mustard and bread rolls.,15,20,20,30,10,0,Sausages,Czech
-3,Burek (Serbian Savory Pie),"Serbian savory pie with flaky pastry filled with cheese, spinach, meat, or potatoes.",25,40,20,20,40,1,Filo dough,Serbian
-2,Ajvar (Serbian Pepper Spread),"Serbian spread made with roasted red peppers, eggplant, garlic, and olive oil.",15,30,15,5,30,0,Red peppers,Serbian
-2,Cottage Cheese Pancakes (Serbian Palačinke),"Savory Serbian pancakes filled with cottage cheese, herbs, and sometimes spinach.",15,20,15,15,30,1,Flour,Serbian
-3,Chicken Paprikash (Hungarian Paprika Chicken),"Hungarian dish with chicken, vegetables, and a rich paprika sauce.",20,40,20,30,30,0,Chicken breast,Hungarian
-2,Fish and Chips (English Classic),Classic English dish with fried fish and french fries.,20,20,25,20,40,0,Fish,English
-4,Chicken Kiev Pie (English),English pie adaptation of Chicken Kiev with a flaky pastry crust.,30,60,25,30,40,1,Chicken breast,English
-3,Ukrainian Borscht with Meatballs,"Ukrainian beetroot soup with vegetables, meatballs, and sour cream.",20,40,20,30,30,0,Beets,Ukrainian
-2,Kreplach (Jewish Dumplings),"Jewish dumplings filled with meat, potato, or cheese, boiled or fried.",20,30,15,20,30,0,Dough,Israeli
-3,Solyanka (Russian Meat Stew),"Hearty Russian stew with various types of meat, vegetables, sausage, olives, and tomato sauce.",25,60,30,40,30,0,Meat (various),Russian
-2,Ceviche,"A Peruvian dish of raw fish marinated in citrus juices, typically lime or lemon, and seasoned with onions, cilantro, and chili peppers. Fresh, tangy, and flavorful.",20,0,5,20,10,0,Fish,Peruvian
-4,Coq au Vin,"A classic French dish featuring chicken braised with red wine, mushrooms, onions, bacon, and garlic, resulting in a rich and flavorful stew.",40,60,20,25,15,0,Chicken,French
-2,Gyoza,"Japanese dumplings filled with ground meat (usually pork) and vegetables, wrapped in thin dough and pan-fried until crispy. Served with soy sauce for dipping.",25,15,10,15,20,0,Pork,Japanese
-3,Chicken Curry,"An Indian curry dish made with tender chicken simmered in a flavorful sauce made with tomatoes, onions, ginger, garlic, and spices. Served with rice or naan.",30,40,20,25,20,0,Chicken,Indian
-4,Sauerbraten,"A German pot roast made with marinated beef, typically served with potato dumplings, red cabbage, and gravy. Hearty and comforting.",45,120,25,30,20,0,Beef,German
-3,Falafel,"A Middle Eastern dish made with seasoned chickpea or fava bean patties, deep-fried until crispy and golden brown. Served in pita bread with tahini sauce and salad.",40,20,15,10,25,0,Chickpeas,Lebanese
-3,Goulash,"A Hungarian stew made with tender beef, onions, peppers, tomatoes, and paprika, slow-cooked until rich and flavorful. Served with noodles or crusty bread.",45,60,25,30,20,0,Beef,Hungarian
-3,Risotto,"An Italian rice dish cooked with broth until creamy and tender, typically flavored with butter, onions, white wine, and Parmesan cheese. Versatile and comforting.",30,30,15,10,20,0,Rice,Italian
-2,Tiramisu,"An Italian dessert made with layers of coffee-soaked ladyfingers, mascarpone cheese, cocoa powder, and sometimes rum or Marsala wine. Rich, creamy, and decadent.",40,0,25,10,20,1,Mascarpone Cheese,Italian
-4,Croissants,"A French pastry made with layered dough, rolled and folded to create a flaky texture. Served warm with butter and jam for breakfast or as a snack.",60,25,20,5,30,1,Puff Pastry,French
-3,Miso Soup,"A Japanese soup made with dashi broth, miso paste, tofu, seaweed, and green onions. Light, savory, and umami-rich.",20,15,5,10,10,0,Tofu,Japanese
-3,Tandoori Chicken,"An Indian dish of marinated chicken cooked in a tandoor oven, resulting in smoky, charred flavors. Served with naan bread and mint chutney.",40,30,15,25,20,0,Chicken,Indian
-3,Ćevapčići (Grilled Minced Meat Rolls),Seasoned minced meat rolls grilled and served with onions and kajmak.,20,20,20,30,20,0,Ground meat,Albanian
-2,Pljeskavica (Grilled Flatbread Burger),Patty made of ground meat grilled and served in pita bread with toppings.,20,20,20,30,20,0,Ground meat,Serbian
-3,Punjene Paprike (Stuffed Peppers),"Bell peppers stuffed with rice, ground meat, vegetables, and spices, often with yogurt sauce.",20,40,20,30,30,0,Bell peppers,Albanian
-4,Gibanica (Savory Pie),"Flaky pastry filled with savory fillings like cheese, spinach, potatoes, or meat.",30,60,20,20,40,1,Filo dough,Serbian
-3,Pasulj (Bean Stew),"Hearty stew with white beans, vegetables, smoked meat (optional), and spices.",20,60,15,20,40,0,White beans,Croatian
-2,Popara (Cornbread with Cheese),"Crumbled cornbread, milk, and grated cheese.",10,15,10,15,30,0,Cornbread,Croatian
-3,Zeljanka (Sauerkraut Stew),"Sauerkraut stew with sausage, potatoes, vegetables, and spices.",20,40,20,25,30,0,Sauerkraut,Croatian
+difficulty,name,description,preparation_time,cooking_time,fat,protein,carbs,cooking_or_pastry,basic_ingredient_name,National_Cuisine_name,Recipies_Image
+3,Spiced Chickpea Curry with Coconut Milk,Aromatic and flavorful chickpea curry simmered in coconut milk with warming spices.,15,30,15,20,40,0,Chickpeas,Indian,images\Recipes\Spiced_Chickpea_Curry_with_Coconut_Milk.jpg
+2,One-Pan Lemon Garlic Salmon with Asparagus,"Simple and delicious salmon dish with roasted asparagus, flavored with lemon and garlic.",10,20,20,30,5,0,Salmon,American,images\Recipes\One_Pan_Lemon_Garlic_Salmon_with_Asparagus.jpg
+4,Penne Arrabbiata,Classic Italian pasta dish with a spicy tomato sauce.,15,20,10,15,30,0,Penne,Italian,images\Recipes\Penne_Arrabbiata.jpg
+5,Chicken Fajitas,"Grilled chicken strips with peppers and onions, served on warm tortillas with your favorite toppings.",20,20,25,30,15,0,Chicken breast,Mexican,images\Recipes\Chicken_Fajitas.jpg
+5,Beef and Broccoli Stir-fry,"A quick and easy stir-fry with tender beef, broccoli florets, and a savory sauce.",15,20,20,30,20,0,Beef flank steak,Chinese,images\Recipes\Beef_and_Broccoli_Stir_fry.jpg
+2,Tuscan White Bean Soup,"Hearty and flavorful soup made with cannellini beans, kale, and Italian sausage.",20,30,15,20,40,0,Cannellini beans,Italian,images\Recipes\Tuscan_White_Bean_Soup.jpg
+3,Greek Yogurt Marinade Chicken Souvlaki,"Marinated chicken skewers grilled to perfection, served with a cool and creamy tzatziki sauce.",20,20,20,30,5,0,Chicken breast,Greek,images\Recipes\Greek_Yogurt_Marinade_Chicken_Souvlaki.jpg
+4,Pad Thai,"Stir-fried rice noodles with vegetables, egg, and protein of your choice, seasoned with a flavorful tamarind sauce.",20,20,20,20,40,0,Rice noodles,Thai,images\Recipes\Pad_Thai_Stir_fried_rice_noodles_with_vegetables.jpg
+3,Ratatouille,"French vegetable stew made with eggplant, zucchini, tomatoes, peppers, and herbs.",20,40,10,15,30,0,Eggplant,French,images\Recipes\Ratatouille.jpg
+3,Chicken Tikka Masala,Creamy Indian curry with tender chicken pieces in a spiced tomato sauce.,20,30,20,30,30,0,Chicken breast,Indian,images\Recipes\Chicken_Tikka_Masala.jpg
+2,Caprese Salad,"Simple and refreshing salad with sliced tomatoes, fresh mozzarella, basil leaves, and a drizzle of olive oil.",10,5,10,15,10,0,Tomato,Italian,images\Recipes\Caprese_Salad.jpg
+4,Beef Stroganoff,Classic comfort food with tender beef strips in a creamy mushroom sauce served over egg noodles.,20,30,25,30,30,0,Beef sirloin,Russian,images\Recipes\Beef_Stroganoff.jpg
+5,Kung Pao Chicken,"Spicy stir-fried chicken with peanuts, vegetables, and chili peppers.",15,20,25,30,20,0,Chicken breast,Chinese,images\Recipes\Kung_Pao_Chicken.jpg
+3,Salmon with Lemon Dill Sauce,Baked salmon with a bright and flavorful lemon dill sauce.,15,20,20,30,5,0,Salmon,French,images\Recipes\Salmon_with_Lemon_Dill_Sauce.jpg
+1,Scrambled Eggs,"Quick and easy breakfast dish made with eggs, milk, and your favorite seasonings.",5,10,10,15,5,0,Eggs,American,images\Recipes\Scrambled_Eggs.jpg
+3,Pasta Primavera,Spring vegetable pasta dish with a light and creamy sauce.,20,20,15,15,30,0,Penne,Italian,images\Recipes\Pasta_Primavera.jpg
+5,Beef Wellington,Luxurious dish with tenderloin steak wrapped in puff pastry and duxelles (mushroom mixture).,40,60,40,40,30,1,Beef tenderloin,English,images\Recipes\Beef_Wellington.jpg
+2,Tuna Salad Sandwich,"Classic and easy lunch option with canned tuna, mayonnaise, celery, and onion on toasted bread.",10,5,15,20,20,0,Canned tuna,American,images\Recipes\Tuna_Salad_Sandwich.jpg
+4,Chicken Pot Pie,"Hearty and comforting casserole with chicken, vegetables, and a flaky pastry crust.",30,60,25,30,40,1,Chicken breast,American,images\Recipes\Chicken_Pot_Pie.jpg
+5,Sushi Bake,"Baked casserole with sushi rice, vegetables, seafood, and a savory sauce.",20,30,20,30,40,0,Sushi rice,Japanese,images\Recipes\Sushi_Bake.jpg
+2,Greek Yogurt Parfait with Granola and Berries,"Healthy and delicious breakfast parfait with layers of Greek yogurt, granola, and fresh berries.",10,5,10,15,20,0,Greek yogurt,Greek,images\Recipes\Greek_Yogurt_Parfait_with_Granola_and_Berries.jpg
+3,Shakshuka,"Algerian dish of poached eggs in a spicy tomato and pepper sauce, served with crusty bread.",15,20,15,20,20,0,Eggs,Algerian,images\Recipes\Shakshuka.jpg
+4,Chicken Alfredo,"Creamy pasta dish with tender chicken, fettuccine noodles, and a rich Alfredo sauce.",20,20,25,30,30,0,Chicken breast,Italian,images\Recipes\Chicken_Alfredo.jpg
+5,Tacos,"Classic Mexican dish with seasoned meat, lettuce, cheese, and salsa, served in a warm tortilla.",15,20,20,30,20,0,Ground beef,Mexican,images\Recipes\Tacos.jpg
+3,Mushroom Risotto,"Creamy and flavorful Italian rice dish made with Arborio rice, mushrooms, and Parmesan cheese.",20,30,15,20,30,0,Arborio rice,Italian,images\Recipes\Mushroom_Risotto.jpg
+2,Avocado Toast,"Simple and healthy breakfast option with mashed avocado on toasted bread, topped with seasonings and toppings of your choice.",10,5,10,15,10,0,Avocado,American,images\Recipes\Avocado_Toast.jpg
+4,Lasagna,"Classic Italian pasta dish with layers of pasta, meat sauce, and cheese, baked to perfection.",30,60,30,40,40,0,Lasagna noodles,Italian,images\Recipes\Lasagna.jpg
+5,Bibimbap,"Korean rice bowl with assorted vegetables, meat, and a spicy gochujang sauce, topped with a fried egg.",30,30,20,30,30,0,Rice,Korean,images\Recipes\Bibimbap.jpg
+3,Chicken Noodle Soup,"Comforting and nourishing soup with chicken, vegetables, and noodles in a flavorful broth.",20,30,10,15,20,0,Chicken breast,American,images\Recipes\Chicken_Noodle_Soup.jpg
+2,Hummus and Veggie Wrap,"Healthy and satisfying wrap with hummus, fresh vegetables, and a whole wheat tortilla.",10,10,10,15,10,0,Hummus,Arabic,images\Recipes\Hummus_and_Veggie_Wrap.jpg
+4,Beef Bourguignon,"Classic French beef stew cooked in red wine with mushrooms, onions, and bacon.",30,60,30,40,40,0,Beef chuck roast,French,images\Recipes\Beef_Bourguignon.jpg
+5,Fish Tacos,"Fresh and flavorful tacos with grilled fish, cabbage slaw, and a creamy sauce, served in warm tortillas.",20,20,20,30,10,0,White fish,Mexican,images\Recipes\Fish_Tacos.jpg
+2,Black Bean Burgers,"Vegetarian burgers made with black beans, corn, and spices, served on buns with your favorite toppings.",15,20,10,20,30,0,Black beans,Mexican,images\Recipes\Black_Bean_Burgers.jpg
+4,Lentil Soup,"Hearty and protein-packed soup made with lentils, vegetables, and herbs.",20,40,10,25,40,0,Lentils,Turkish,images\Recipes\Lentil_Soup.jpg
+3,Chicken Caesar Salad,"Classic salad with grilled chicken, romaine lettuce, Parmesan cheese, croutons, and Caesar dressing.",20,15,20,30,10,0,Chicken breast,American,images\Recipes\Chicken_Caesar_Salad.jpg
+2,French Toast,Sweet breakfast dish made with bread dipped in egg batter and fried.,10,10,20,15,20,1,Bread,French,images\Recipes\French_Toast.jpg
+3,Moussaka,"Greek layered casserole with ground meat, eggplant, potatoes, and a creamy béchamel sauce.",30,60,25,30,40,0,Ground lamb,Greek,images\Recipes\Moussaka.jpg
+4,Paella Valenciana,"Traditional Spanish rice dish with seafood, chicken, vegetables, and saffron.",30,40,20,30,40,0,Rice,Spanish,images\Recipes\Paella_Valenciana.jpg
+2,Falafel Pita Pockets,"Crispy falafel balls made with chickpeas and spices, served in pita bread with hummus and vegetables.",15,20,15,20,30,0,Chickpeas,Lebanese,images\Recipes\Falafel_Pita_Pockets.jpg
+3,Tom Yum Soup,"Hot and sour Thai soup with shrimp, mushrooms, lemongrass, and kaffir lime leaves.",20,30,10,20,30,0,Shrimp,Thai,images\Recipes\Tom_Yum_Soup.jpg
+4,Shepherd's Pie,"Hearty comfort food with ground lamb, mashed potatoes, and vegetables.",20,40,25,30,40,0,Ground lamb,English,images\Recipes\Shepherds_Pie.jpg
+1,Pancakes,"Fluffy and delicious breakfast dish made with flour, milk, and eggs.",10,10,15,10,25,1,Flour,American,images\Recipes\Pancakes.jpg
+3,Kimchi Jjigae (Kimchi Stew),"Spicy Korean stew with kimchi (fermented cabbage), pork, tofu, and vegetables.",20,30,15,25,30,0,Kimchi,Korean,images\Recipes\Kimchi_Jjigae_(Kimchi_Stew).jpg
+4,Green Curry with Chicken,"Thai curry with green curry paste, chicken, vegetables, and coconut milk.",20,20,20,30,30,0,Chicken breast,Thai,images\Recipes\Green_Curry_with_Chicken.jpg
+2,Guacamole,"Simple and delicious avocado dip with lime juice, cilantro, and spices.",10,10,15,2,5,0,Avocado,Mexican,images\Recipes\Guacamole.jpg
+3,Spaghetti Carbonara,"Classic Italian pasta dish with eggs, Parmesan cheese, bacon, and black pepper.",20,20,25,20,30,0,Spaghetti,Italian,images\Recipes\Spaghetti_Carbonara.jpg
+2,Fruit Salad,Refreshing and healthy mix of fresh fruits.,10,5,5,2,15,0,Fruits (various),Scottish,images\Recipes\Fruit_Salad.jpg
+5,Apple Crumble,"Warm and comforting dessert with apples, a crumbly topping, and vanilla ice cream.",20,40,20,5,40,1,Apples,American,images\Recipes\Apple_Crumble.jpg
+4,Chicken Katsu Curry,Japanese dish with breaded and fried chicken cutlets served with a savory curry sauce and rice.,30,30,25,30,30,0,Chicken breast,Japanese,images\Recipes\Chicken_Katsu_Curry.jpg
+3,Chicken Shawarma,"Arabic dish with marinated and grilled chicken, served in a pita with tahini sauce and vegetables.",20,20,20,30,20,0,Chicken breast,Arabic,images\Recipes\Chicken_Shawarma.jpg
+2,Hummus Wrap,Chickpea-based spread wrapped in a pita bread with vegetables and tahini sauce.,10,10,10,10,30,0,Hummus,Lebanese,images\Recipes\Hummus_Wrap.jpg
+3,Potato Leek Soup,"Creamy and flavorful soup with potatoes, leeks, and chicken broth.",20,30,15,10,30,0,Potatoes,French,images\Recipes\Potato_Leek_Soup.jpg
+4,Butter Chicken,Indian dish with tender chicken in a creamy tomato sauce flavored with butter.,20,30,25,30,20,0,Chicken breast,Indian,images\Recipes\Butter_Chicken.jpg
+2,Caprese Pasta Salad,"Cold pasta salad with tomatoes, mozzarella, fresh basil, and a light vinaigrette.",15,10,15,15,30,0,Pasta,Italian,images\Recipes\Caprese_Pasta_Salad.jpg
+4,Ratatouille Tian,"Provençal vegetable dish layered with eggplant, zucchini, tomatoes, peppers, and herbs.",25,40,10,10,30,0,Eggplant,French,images\Recipes\Ratatouille_Tian.jpg
+3,Chicken and Dumplings,"Southern comfort food with chicken, vegetables, and fluffy dumplings.",30,60,20,30,40,0,Chicken breast,American,images\Recipes\Chicken_and_Dumplings.jpg
+5,Baklava,"Rich and flaky pastry with layers of filo dough, nuts, and honey syrup.",40,60,30,10,40,1,Filo dough,Turkish,images\Recipes\Baklava.jpg
+2,Club Sandwich,"Classic triple-decker sandwich with toasted bread, chicken, bacon, lettuce, tomato, and mayonnaise.",15,10,20,25,30,0,Bread,American,images\Recipes\Club_Sandwich.jpg
+3,Beef Vindaloo,"Spicy Indian curry with beef, potatoes, and a hot vindaloo sauce.",20,30,25,30,20,0,Beef chuck roast,Indian,images\Recipes\Beef_Vindaloo.jpg
+2,Tuna Noodle Casserole,"Easy and comforting casserole with tuna, noodles, vegetables, and a creamy cheese sauce.",20,30,20,20,30,0,Canned tuna,American,images\Recipes\Tuna_Noodle_Casserole.jpg
+3,Chicken Marsala,"Italian dish with chicken, mushrooms, Marsala wine, and a creamy sauce.",25,30,25,30,20,0,Chicken breast,Italian,images\Recipes\Chicken_Marsala.jpg
+4,Spring Rolls,"Crispy fried rolls filled with vegetables, meat, or seafood.",20,20,20,15,30,1,Spring roll wrapper,Chinese,images\Recipes\Spring_Rolls.jpg
+2,Egg Salad Sandwich,"Classic lunch option with hard-boiled eggs, mayonnaise, mustard, and celery on toasted bread.",10,5,15,10,20,0,Eggs,American,images\Recipes\Egg_Salad_Sandwich.jpg
+3,Tom Kha Gai (Thai Chicken Coconut Soup),"Thai soup with chicken, coconut milk, galangal, lemongrass, and kaffir lime leaves.",20,30,20,25,20,0,Chicken breast,Thai,images\Recipes\Tom_Kha_Gai.jpg
+1,Grilled Cheese Sandwich,Simple and delicious sandwich with melted cheese between two slices of toasted bread.,5,10,20,15,20,0,Bread,American,images\Recipes\Grilled_Cheese_Sandwich.jpg
+4,Beef Enchiladas,"Mexican dish with tortillas filled with seasoned ground beef, topped with enchilada sauce and cheese.",25,30,25,30,30,0,Ground beef,Mexican,images\Recipes\Beef_Enchiladas.jpg
+3,Pan-Seared Salmon with Lemon Butter Sauce,Simple and elegant dish with salmon fillets pan-seared and finished with a lemon butter sauce.,15,20,20,30,5,0,Salmon,French,images\Recipes\Pan_Seared_Salmon_with_Lemon_Butter_Sauce.jpg
+4,Pad See Ew,"Thai stir-fried rice noodles with chicken, eggs, vegetables, and a savory sauce.",20,20,20,25,30,0,Rice noodles,Thai,images\Recipes\Pad_See_Ew.jpg
+2,Chicken Stir-fry with Broccoli,"Quick and easy stir-fry with chicken, broccoli florets, and a soy sauce-based sauce.",15,20,15,30,20,0,Chicken breast,Chinese,images\Recipes\Chicken_Stir_fry_with_Broccoli.jpg
+3,Chicken Pot Pie with Puff Pastry,"Classic comfort food with chicken, vegetables, and a flaky puff pastry crust.",30,60,25,30,40,1,Chicken breast,American,images\Recipes\Chicken_Pot_Pie_with_Puff_Pastry.jpg
+5,Chocolate Chip Cookies,Classic and chewy cookies packed with chocolate chips.,20,15,20,5,30,1,Flour,American,images\Recipes\Chocolate_Chip_Cookies.jpg
+2,Greek Salad,"Refreshing and healthy salad with tomatoes, cucumbers, olives, feta cheese, and a lemon-oregano dressing.",10,10,10,15,10,0,Tomato,Greek,images\Recipes\Greek_Salad.jpg
+2,Aloo Gobi (Potato and Cauliflower Curry),"Simple and flavorful Indian curry with potatoes, cauliflower, and spices.",15,30,10,15,30,0,Potatoes,Indian,images\Recipes\Aloo_Gobi.jpg
+3,Bun Bo Hue,"Spicy Vietnamese noodle soup with beef, pork, vegetables, and lemongrass.",25,40,20,30,30,0,Beef,Vietnamese,images\Recipes\Bun_Bo_Hue.jpg
+4,Ful Medames,"Egyptian dish with fava beans, mashed with olive oil, lemon juice, and spices, served with pita bread.",20,30,15,20,40,0,Fava beans,Egyptian,images\Recipes\Ful_Medames.jpg
+2,Mofongo (Brazilian Mashed Plantains),"Mashed plantains fried until crispy on the outside, served with savory toppings like meat or seafood.",20,30,20,10,40,0,Plantains,Brazilian,images\Recipes\Mofongo.jpg
+3,Bangers and Mash,"English dish with sausages and mashed potatoes, often served with gravy and peas.",20,30,25,30,40,0,Sausages,English,images\Recipes\Bangers_and_Mash.jpg
+3,Etouffee (Cajun Stew),"Spicy Cajun stew with seafood, vegetables, and a rich roux sauce.",25,40,25,30,30,0,Shrimp,Brazilian,images\Recipes\Etouffee_(Cajun_Stew).jpg
+4,Pho Ga (Vietnamese Chicken Noodle Soup),"Clear and flavorful Vietnamese soup with chicken, rice noodles, herbs, and lime juice.",20,60,15,30,40,0,Chicken,Vietnamese,images\Recipes\Pho_Ga_(Vietnamese_Chicken_Noodle_Soup).jpg
+2,Pierogi (Polish Dumplings),"Savory dumplings filled with potatoes, cheese, meat, or vegetables, boiled or pan-fried.",20,30,15,20,30,0,Dough,Polish,images\Recipes\Pierogi_(Polish_Dumplings).jpg
+3,Empanadas (Argentinian Pastries),"Baked or fried pastries filled with savory ingredients like meat, cheese, or vegetables.",25,40,20,20,30,1,Dough,Argentinian,images\Recipes\Empanadas.jpg
+3,Gulasch (Hungarian Stew),"Hearty Hungarian stew with beef, vegetables, paprika, and sour cream.",20,60,25,30,30,0,Beef,Hungarian,images\Recipes\Goulash.jpg
+2,Colcannon (Irish Mashed Potatoes),Traditional Irish mashed potatoes with mashed kale or cabbage.,15,30,15,10,40,0,Potatoes,Irish,images\Recipes\Colcannon_(Irish_Mashed_Potatoes).jpg
+4,Bibimbap (Korean Mixed Rice Bowl),"Korean dish with rice, vegetables, meat, egg, and a spicy gochujang sauce.",20,20,20,25,30,0,Rice,Korean,images\Recipes\Bibimbap.jpg
+3,Jerk Chicken (American Dish),"Marinated chicken with jerk seasoning, grilled or smoked for a smoky flavor.",20,40,20,30,5,0,Chicken,American,images\Recipes\Jerk_Chicken_(American_Dish).jpg
+2,Borsch (Beet Soup),"Serbian soup made with beets, vegetables, and meat (optional).",20,40,10,20,30,0,Beets,Serbian,images\Recipes\Borsch_(Beet_Soup).jpg
+3,Curried Goat (Mexican Dish),"Hearty Mexican stew with goat meat, vegetables, and curry powder.",25,60,25,30,20,0,Goat meat,Mexican,images\Recipes\Curried_Goat_(Mexican_Dish).jpg
+2,Lumpia (Thai Spring Rolls),"Savory spring rolls filled with meat or vegetables, fried until golden brown.",15,20,20,15,30,1,Spring roll wrapper,Thai,images\Recipes\Lumpia.jpg
+4,Tom Kha Kai Kai Dao (Thai Coconut Curry Omelet),"Thai curry with chicken, coconut milk, vegetables, and a fluffy omelet.",20,30,20,25,20,0,Chicken breast,Thai,images\Recipes\Tom_Kha_Kai_Kai_Dao.jpg
+3,Sauerbraten (German Pot Roast),"German pot roast marinated in vinegar and spices, cooked until tender and flavorful.",40,180,25,30,20,0,Beef chuck roast,German,images\Recipes\Sauerbraten.jpg
+4,Bulgogi (Korean Marinated Beef),"Thinly sliced beef marinated in soy sauce, garlic, and ginger, grilled or pan-fried.",20,20,20,30,5,0,Beef,Korean,images\Recipes\Bulgogi.jpg
+2,Nigerian Jollof Rice,"Spicy rice dish with tomatoes, peppers, onions, and spices.",15,40,10,15,30,0,Rice,Nigerian,images\Recipes\Nigerian_Jollof_Rice.jpg
+2,Sarma (Stuffed Cabbage Leaves),Popular Serbian dish with seasoned ground meat and rice stuffed in cabbage leaves and simmered.,20,60,20,25,40,0,Cabbage,Croatian,images\Recipes\Sarma_(Stuffed_Cabbage_Leaves).jpg
+3,Gulas (Hungarian Goulash),"Hearty Hungarian stew with beef, vegetables, paprika, and tomatoes, similar to Hungarian Gulasch but with a tomato base.",20,60,25,30,30,0,Beef,Hungarian,images\Recipes\Gulas.jpg
+4,Pirozhki (Russian Savory Buns),"Baked or fried buns filled with savory fillings like meat, potatoes, or vegetables.",20,40,20,20,30,1,Dough,Russian,images/Recipes/Pirozhki_(Russian_Savory_Buns).jpg
+3,Chicken Kyiv (Chicken Kiev),"Ukrainian dish with breaded chicken breast filled with butter and herbs, pan-fried until golden brown.",25,30,25,30,20,0,Chicken breast,Ukrainian,images\Recipes\Chicken_Kyiv.jpg
+1,Borscht (Ukrainian Borscht),"Ukrainian beetroot soup with vegetables, meat (optional), and sour cream. Lighter version of Borsch compared to Serbian version.",20,40,10,20,30,0,Beets,Ukrainian,images\Recipes\Borscht.jpg
+3,Shakshuka (Israeli Eggs in Spicy Tomato Sauce),"Israeli dish with eggs poached in a spicy tomato sauce with peppers, onions, and spices.",20,20,20,15,30,0,Eggs,Israeli,images\Recipes\Shakshuka_(Israeli_Eggs_in_Spicy_Tomato_Sauce).jpg
+2,Palačinky (Czech Sweet Crepes),"Thin Czech pancakes filled with sweet fillings like fruit, jam, or chocolate.",15,20,15,10,30,1,Flour,Czech,images\Recipes\Palačinky_(Czech_Sweet_Crepes).jpg
+3,Pörkölt (Hungarian Pork Stew),"Hungarian stew with pork, onions, paprika, and tomatoes, similar to Goulash but with a focus on pork.",20,60,25,30,30,0,Pork,Hungarian,images\Recipes\Pörkölt_(Hungarian_Pork_Stew).jpg
+3,Fiš paprikaš (Hungarian Fish Stew),"Hungarian stew with freshwater fish, vegetables, paprika, and tomatoes.",20,40,20,30,30,0,Fish (freshwater),Hungarian,images\Recipes\Fiš_paprikaš.jpg
+3,Špekáčky (Grilled Sausages),Popular Czech grilled sausages often served with mustard and bread rolls.,15,20,20,30,10,0,Sausages,Czech,images\Recipes\Špekáčky_(Grilled_Sausages).jpg
+3,Burek (Serbian Savory Pie),"Serbian savory pie with flaky pastry filled with cheese, spinach, meat, or potatoes.",25,40,20,20,40,1,Filo dough,Serbian,images\Recipes\Burek.jpg
+2,Ajvar (Serbian Pepper Spread),"Serbian spread made with roasted red peppers, eggplant, garlic, and olive oil.",15,30,15,5,30,0,Red peppers,Serbian,images\Recipes\Ajvar_(Serbian_Pepper_Spread).jpg
+2,Cottage Cheese Pancakes (Serbian Palačinke),"Savory Serbian pancakes filled with cottage cheese, herbs, and sometimes spinach.",15,20,15,15,30,1,Flour,Serbian,images\Recipes\Cottage_Cheese_Pancakes_(Serbian_Palačinke).jpg
+3,Chicken Paprikash (Hungarian Paprika Chicken),"Hungarian dish with chicken, vegetables, and a rich paprika sauce.",20,40,20,30,30,0,Chicken breast,Hungarian,images\Recipes\Chicken_Paprikash_(Hungarian_Paprika_Chicken).jpg
+2,Fish and Chips (English Classic),Classic English dish with fried fish and french fries.,20,20,25,20,40,0,Fish,English,images\Recipes\Fish_and_Chips_(English_Classic).jpg
+4,Chicken Kiev Pie (English),English pie adaptation of Chicken Kiev with a flaky pastry crust.,30,60,25,30,40,1,Chicken breast,English,images\Recipes\Chicken_Kiev_Pie.jpg
+3,Ukrainian Borscht with Meatballs,"Ukrainian beetroot soup with vegetables, meatballs, and sour cream.",20,40,20,30,30,0,Beets,Ukrainian,images\Recipes\Ukrainian_Borscht_with_Meatballs.jpg
+2,Kreplach (Jewish Dumplings),"Jewish dumplings filled with meat, potato, or cheese, boiled or fried.",20,30,15,20,30,0,Dough,Israeli,images\Recipes\Kreplach_(Jewish_Dumplings).jpg
+3,Solyanka (Russian Meat Stew),"Hearty Russian stew with various types of meat, vegetables, sausage, olives, and tomato sauce.",25,60,30,40,30,0,Meat (various),Russian,images\Recipes\Solyanka_(Russian_Meat_Stew).jpg
+2,Ceviche,"A Peruvian dish of raw fish marinated in citrus juices, typically lime or lemon, and seasoned with onions, cilantro, and chili peppers. Fresh, tangy, and flavorful.",20,0,5,20,10,0,Fish,Peruvian,images\Recipes\Ceviche.jpg
+4,Coq au Vin,"A classic French dish featuring chicken braised with red wine, mushrooms, onions, bacon, and garlic, resulting in a rich and flavorful stew.",40,60,20,25,15,0,Chicken,French,images\Recipes\Coq_au_Vin.jpg
+2,Gyoza,"Japanese dumplings filled with ground meat (usually pork) and vegetables, wrapped in thin dough and pan-fried until crispy. Served with soy sauce for dipping.",25,15,10,15,20,0,Pork,Japanese,images\Recipes\Gyoza.jpg
+3,Chicken Curry,"An Indian curry dish made with tender chicken simmered in a flavorful sauce made with tomatoes, onions, ginger, garlic, and spices. Served with rice or naan.",30,40,20,25,20,0,Chicken,Indian,images\Recipes\Chicken_Curry.jpg
+4,Sauerbraten,"A German pot roast made with marinated beef, typically served with potato dumplings, red cabbage, and gravy. Hearty and comforting.",45,120,25,30,20,0,Beef,German,images\Recipes\Sauerbraten.jpg
+3,Falafel,"A Middle Eastern dish made with seasoned chickpea or fava bean patties, deep-fried until crispy and golden brown. Served in pita bread with tahini sauce and salad.",40,20,15,10,25,0,Chickpeas,Lebanese,images\Recipes\Falafel.jpg
+3,Goulash,"A Hungarian stew made with tender beef, onions, peppers, tomatoes, and paprika, slow-cooked until rich and flavorful. Served with noodles or crusty bread.",45,60,25,30,20,0,Beef,Hungarian,images\Recipes\Goulash.jpg
+3,Risotto,"An Italian rice dish cooked with broth until creamy and tender, typically flavored with butter, onions, white wine, and Parmesan cheese. Versatile and comforting.",30,30,15,10,20,0,Rice,Italian,images\Recipes\Risotto.jpg
+2,Tiramisu,"An Italian dessert made with layers of coffee-soaked ladyfingers, mascarpone cheese, cocoa powder, and sometimes rum or Marsala wine. Rich, creamy, and decadent.",40,0,25,10,20,1,Mascarpone Cheese,Italian,images\Recipes\Tiramisu.jpg
+4,Croissants,"A French pastry made with layered dough, rolled and folded to create a flaky texture. Served warm with butter and jam for breakfast or as a snack.",60,25,20,5,30,1,Puff Pastry,French,images\Recipes\Croissants.jpg
+3,Miso Soup,"A Japanese soup made with dashi broth, miso paste, tofu, seaweed, and green onions. Light, savory, and umami-rich.",20,15,5,10,10,0,Tofu,Japanese,images\Recipes\Miso_Soup.jpg
+3,Tandoori Chicken,"An Indian dish of marinated chicken cooked in a tandoor oven, resulting in smoky, charred flavors. Served with naan bread and mint chutney.",40,30,15,25,20,0,Chicken,Indian,images\Recipes\Tandoori_Chicken.jpg
+3,Ćevapčići (Grilled Minced Meat Rolls),Seasoned minced meat rolls grilled and served with onions and kajmak.,20,20,20,30,20,0,Ground meat,Albanian,images\Recipes\Ćevapčići.jpg
+2,Pljeskavica (Grilled Flatbread Burger),Patty made of ground meat grilled and served in pita bread with toppings.,20,20,20,30,20,0,Ground meat,Serbian,images\Recipes\Pljeskavica.jpg
+3,Punjene Paprike (Stuffed Peppers),"Bell peppers stuffed with rice, ground meat, vegetables, and spices, often with yogurt sauce.",20,40,20,30,30,0,Bell peppers,Albanian,images\Recipes\Punjene_Paprike.jpg
+4,Gibanica (Savory Pie),"Flaky pastry filled with savory fillings like cheese, spinach, potatoes, or meat.",30,60,20,20,40,1,Filo dough,Serbian,images\Recipes\Gibanica.jpg
+3,Pasulj (Bean Stew),"Hearty stew with white beans, vegetables, smoked meat (optional), and spices.",20,60,15,20,40,0,White beans,Croatian,images\Recipes\Pasulj_(Bean_Stew).jpg
+2,Popara (Cornbread with Cheese),"Crumbled cornbread, milk, and grated cheese.",10,15,10,15,30,0,Cornbread,Croatian,images\Recipes\Popara.jpg
+3,Zeljanka (Sauerkraut Stew),"Sauerkraut stew with sausage, potatoes, vegetables, and spices.",20,40,20,25,30,0,Sauerkraut,Croatian,images\Recipes\Zeljanka_(Sauerkraut_Stew).jpg

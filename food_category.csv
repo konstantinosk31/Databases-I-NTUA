@@ -1,13 +1,13 @@
-name,description
-Grains,"Rice, wheat, corn products: bread, cereals, pasta, bran, wheat germ, pizza, pancakes"
-Milk and milk products,"Milk, yoghurt, cream, cheese"
-Fruit and fruit products,"Fruit: fresh, dried, frozen or canned"
-Eggs,"Eggs/egg products"
-Meat and poultry,"Poultry, game, beef, pork, sheep, processed meats"
-Fish/shellfish,"Fish, shrimp, reptiles etc."
-Vegetables,"Vegetables and products, potatoes: french fried, baked, boiled, etc (no chips)"
-Fats/oils,"Oils, butter, margarine"
-Legumes/nuts/seeds,"Pulses, lima beans, peas, etc, soy beans, tofu, seeds, nuts, peanut butter"
-Sugar and sugar products,"Chocolate, candy bars, cookies, cakes, pies, jams/jellies"
-Non-alcoholic beverages,"Water, coffee/tea, lemonades, carbonated drinks, fruit and vegetable juices"
-Alcoholic beverages,"Beer, wine, liqueur"
+name,description,Food_Category_Images
+Grains,"Rice, wheat, corn products: bread, cereals, pasta, bran, wheat germ, pizza, pancakes",images\Food Category\Grains.jpg
+Milk and milk products,"Milk, yoghurt, cream, cheese",images\Food Category\Milk_and_milk_products.jpg
+Fruit and fruit products,"Fruit: fresh, dried, frozen or canned",images\Food Category\Fruit_and_fruit_products.jpg
+Eggs,"Eggs/egg products",images\Food Category\Eggs.jpg
+Meat and poultry,"Poultry, game, beef, pork, sheep, processed meats",images\Food Category\Meat_and_poultry.jpg
+Fish/shellfish,"Fish, shrimp, reptiles etc.",images\Food Category\Fish_shellfish.jpg
+Vegetables,"Vegetables and products, potatoes: french fried, baked, boiled, etc (no chips)",images\Food Category\Vegetables.jpg
+Fats/oils,"Oils, butter, margarine",images\Food Category\Fatsoils.jpg
+Legumes/nuts/seeds,"Pulses, lima beans, peas, etc, soy beans, tofu, seeds, nuts, peanut butter",images\Food Category\Legumes_nuts_seeds.jpg
+Sugar and sugar products,"Chocolate, candy bars, cookies, cakes, pies, jams/jellies",images\Food Category\Sugar_and_sugar_products.jpg
+Non-alcoholic beverages,"Water, coffee/tea, lemonades, carbonated drinks, fruit and vegetable juices",images\Food Category\Non_alcoholic_beverages.jpg
+Alcoholic beverages,"Beer, wine, liqueur",images\Food Category\Alcoholic_beverages.jpg

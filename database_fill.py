@@ -2,6 +2,11 @@ import pymysql
 import csv
 import pandas as pd
 
+def convert_data(file_name):
+    with open(file_name, 'rb') as file:
+        binary_data = file.read()
+    return binary_data
+
 def connect():
     # Connect to the database
     connection = pymysql.connect(host='localhost',
@@ -34,12 +39,12 @@ def fill_Cook():
     try:
         with connection:
             with connection.cursor() as cursor:
-                sql = "INSERT INTO Cook (name, surname, phone_number, Date_of_birth, years_of_experience, Professional_Expertise_type) VALUES (%s, %s, %s, %s, %s, %s)"
+                sql = "INSERT INTO Cook (name, surname, phone_number, Date_of_birth, years_of_experience, Professional_Expertise_type,Cook_Images) VALUES (%s, %s, %s, %s, %s, %s, %s)"
                 with open('cook.csv', 'r') as file:
                     csv_data = csv.reader(file)
                     next(csv_data)  # Skip the header row
                     for row in csv_data:
-                        cursor.execute(sql, (row[0], row[1], row[2], row[3], row[4], row[5]))
+                        cursor.execute(sql, (row[0], row[1], row[2], row[3], row[4], row[5], convert_data(row[6])))
                 
             connection.commit()
     except Exception as e:
@@ -90,12 +95,12 @@ def fill_Food_Category():
     try:
         with connection:
             with connection.cursor() as cursor:
-                sql = "INSERT INTO Food_Category (name, description) VALUES (%s, %s)"
+                sql = "INSERT INTO Food_Category (name, description,Food_Category_Images) VALUES (%s, %s,%s)"
                 with open('food_category.csv', 'r') as file:
                     csv_data = csv.reader(file)
                     next(csv_data)  # Skip the header row
                     for row in csv_data:
-                        cursor.execute(sql, (row[0], row[1]))
+                        cursor.execute(sql, (row[0], row[1], convert_data(row[2])))
                 
             connection.commit()
     except Exception as e:
@@ -110,12 +115,12 @@ def fill_Equipment():
     try:
         with connection:
             with connection.cursor() as cursor:
-                sql = "INSERT INTO Equipment (name, manual) VALUES (%s, %s)"
+                sql = "INSERT INTO Equipment (name, manual,Equipment_Images) VALUES (%s, %s,%s)"
                 with open('equipment.csv', 'r') as file:
                     csv_data = csv.reader(file)
                     next(csv_data)  # Skip the header row
                     for row in csv_data:
-                        cursor.execute(sql, (row[0], row[1]))
+                        cursor.execute(sql, (row[0], row[1], convert_data(row[2])))
                 
             connection.commit()
     except Exception as e:
@@ -149,12 +154,12 @@ def fill_Thematic_Unit():
     try:
         with connection:
             with connection.cursor() as cursor:
-                sql = "INSERT INTO Thematic_Unit (name, description) VALUES (%s, %s)"
+                sql = "INSERT INTO Thematic_Unit (name, description,Thematic_Unit_Images) VALUES (%s, %s, %s)"
                 with open('thematic_unit.csv', 'r') as file:
                     csv_data = csv.reader(file)
                     next(csv_data)  # Skip the header row
                     for row in csv_data:
-                        cursor.execute(sql, (row[0], row[1]))
+                        cursor.execute(sql, (row[0], row[1], convert_data(row[2])))
                 
             connection.commit()
     except Exception as e:
@@ -174,12 +179,12 @@ def fill_ingredients():
     try:
         with connection:
             with connection.cursor() as cursor:
-                sql = "INSERT INTO Ingredients (name, caloriesper100grams, Food_Category_name) VALUES (%s, %s, %s)"
+                sql = "INSERT INTO Ingredients (name, caloriesper100grams, Food_Category_name,Ingredients_Images) VALUES (%s, %s, %s, %s)"
                 with open('ingredients.csv', 'r', encoding='utf-8') as file:
                     csv_data = csv.reader(file)
                     next(csv_data)  # Skip the header row
                     for row in csv_data:
-                        cursor.execute(sql, (row[0], row[1], row[2]))
+                        cursor.execute(sql, (row[0], row[1], row[2], convert_data(row[3])))
                 
             connection.commit()
     except Exception as e:
@@ -204,12 +209,12 @@ def fill_Recipies():
     try:
         with connection:
             with connection.cursor() as cursor:
-                sql = "INSERT INTO Recipies (difficulty,name,description,preparation_time,cooking_time,fat,protein,carbs,cooking_or_pastry,basic_ingredient_name,National_Cuisine_name) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+                sql = "INSERT INTO Recipies (difficulty,name,description,preparation_time,cooking_time,fat,protein,carbs,cooking_or_pastry,basic_ingredient_name,National_Cuisine_name,Recipies_Image) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
                 with open('recipies.csv', 'r', encoding='utf-8') as file:
                     csv_data = csv.reader(file)
                     next(csv_data)  # Skip the header row
                     for row in csv_data:
-                        cursor.execute(sql, (row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9], row[10]))
+                        cursor.execute(sql, (row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9], row[10], convert_data(row[11])))
                 
             connection.commit()
     except Exception as e:

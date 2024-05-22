@@ -1,45 +1,45 @@
-name,description
-Spring Picnic,"Enjoy a delightful picnic in the springtime with fresh salads, sandwiches, and fruity desserts."
-Summer BBQ,"Fire up the grill and savor the flavors of summer with barbecue favorites like burgers, ribs, and grilled veggies."
-Autumn Feast,"Celebrate the bounty of the fall harvest with comforting dishes featuring pumpkin, squash, and hearty soups."
-Winter Holiday,"Gather with loved ones for a festive holiday feast featuring roast turkey, ham, and all the trimmings."
-Valentines Romance,"Whisk your sweetheart away with a romantic dinner featuring decadent chocolates and sparkling champagne."
-Easter Brunch,"Celebrate Easter with a lavish brunch spread featuring eggs, pastries, and spring-inspired dishes."
-Independence BBQ,"Celebrate Independence Day with a patriotic barbecue featuring hot dogs, corn on the cob, and apple pie."
-Oktoberfest,"Raise a stein and join the festivities with traditional German fare like pretzels, bratwurst, and sauerkraut."
-Dia de los Muertos,"Honor the Day of the Dead with a colorful fiesta featuring traditional Mexican dishes and sugar skull treats."
-Hanukkah Feast,"Celebrate Hanukkah with a festive feast featuring latkes, brisket, and jelly-filled sufganiyot."
-Christmas Cookies,"Gather friends and family for a cookie exchange featuring an assortment of homemade cookies and treats."
-New Years Party,"Ring in the New Year with a dazzling party platter featuring finger foods, dips, and bubbly champagne."
-Thanksgiving Dinner,"Give thanks with a traditional Thanksgiving dinner featuring roast turkey, stuffing, and cranberry sauce."
-Chinese New Year,"Welcome the Lunar New Year with a lavish banquet featuring dumplings, noodles, and sweet desserts."
-Cinco de Mayo,"Celebrate Cinco de Mayo with a festive fiesta featuring tacos, margaritas, and spicy salsa."
-Summer Solstice,"Celebrate the longest day of the year with a summer solstice feast featuring grilled seafood and seasonal fruits."
-Winter Brunch,"Cozy up indoors with a winter wonderland brunch featuring hearty casseroles and warm beverages."
-Labor Day Cookout,"Enjoy the last days of summer with a Labor Day cookout featuring grilled favorites and refreshing beverages."
-Mardi Gras Feast,"Join the revelry of Mardi Gras with a festive feast featuring jambalaya, gumbo, and king cake."
-Midsummer Night,"Celebrate Midsummer with a magical feast inspired by Shakespeare featuring mead, roasted meats, and berry tarts."
-Diwali Festival,"Illuminate your home with the glow of Diwali and indulge in traditional Indian sweets and savory snacks."
-St. Patricks Day,"Raise a glass and celebrate St. Patricks Day with classic Irish pub fare like shepherds pie and Guinness stew."
-Bastille Day Soirée,"Raise a toast to liberty and equality with a Bastille Day soirée featuring French delicacies like escargot and croissants."
-Rosh Hashanah,"Celebrate the Jewish New Year with a Rosh Hashanah feast featuring honey-glazed carrots and challah bread."
-Halloween Banquet,"Host a spooky Halloween banquet with ghoulish delights like pumpkin soup and monster-shaped cookies."
-Mid-Autumn Festival,"Gather under the moonlight and celebrate the Mid-Autumn Festival with mooncakes and tea."
-Harvest Moon Dinner,"Celebrate the autumn equinox with a harvest moon dinner featuring seasonal squash and apple pie."
-Sukkot Festival,"Celebrate Sukkot with a harvest festival feast featuring traditional Jewish dishes and outdoor dining."
-Spring Equinox,"Welcome the arrival of spring with a lively equinox soirée featuring fresh salads and floral cocktails."
-Lunar New Year,"Ring in the Lunar New Year with a dumpling party featuring homemade dumplings and dipping sauces."
-Eid al-Fitr Feast,"Celebrate the end of Ramadan with an Eid al-Fitr feast featuring savory biryani and sweet baklava."
-Carnival Celebration,"Join the carnival festivities with a colorful celebration featuring Brazilian feijoada and caipirinhas."
-Cherry Blossom Picnic,"Admire the beauty of cherry blossoms with a picturesque picnic featuring sushi rolls and matcha desserts."
-Winter Olympics,"Cheer on your favorite athletes with a Winter Olympics gathering featuring global cuisine and medal-worthy snacks."
-Summer Olympics,"Celebrate the Summer Olympics with a cookout featuring international barbecue favorites and refreshing cocktails."
-Fiesta de San Fermín,"Join the excitement of the Running of the Bulls with a Spanish fiesta featuring tapas and sangria."
-Christmas Feast,"Gather with loved ones for a festive Christmas Eve feast featuring roast goose and mulled wine."
-Día de los Reyes,"Celebrate Three Kings Day with a festive feast featuring Roscón de Reyes and hot chocolate."
-Midsummer Smörgåsbord,"Experience the Swedish tradition of Midsummer with a smörgåsbord featuring pickled herring and meatballs."
-Winter Solstice,"Welcome the return of light with a winter solstice celebration featuring hearty soups and warm bread."
-Bastille Day Picnic,"Enjoy a leisurely Bastille Day picnic with French baguettes, cheeses, and macarons."
-Womens Day Luncheon,"Celebrate womens achievements with an International Womens Day luncheon featuring global cuisine and empowerment."
-Summer Festival,"Rock out at a summer music festival with festival fare like burgers, fries, and ice cream cones."
-Oktoberfest Garden,"Raise a stein in a traditional Oktoberfest beer garden with pretzels, bratwurst, and steaming mugs of beer."
+name,description,Thematic_Unit_Images
+Spring Picnic,"Enjoy a delightful picnic in the springtime with fresh salads, sandwiches, and fruity desserts.",images\Thematic Units\Spring_Picnic.jpg
+Summer BBQ,"Fire up the grill and savor the flavors of summer with barbecue favorites like burgers, ribs, and grilled veggies.",images\Thematic Units\Summer_BBQ.jpg
+Autumn Feast,"Celebrate the bounty of the fall harvest with comforting dishes featuring pumpkin, squash, and hearty soups.",images\Thematic Units\Autumn_Feast.jpg
+Winter Holiday,"Gather with loved ones for a festive holiday feast featuring roast turkey, ham, and all the trimmings.",images\Thematic Units\Winter_Holiday.jpg
+Valentines Romance,"Whisk your sweetheart away with a romantic dinner featuring decadent chocolates and sparkling champagne.",images\Thematic Units\Valentines_Romance.jpg
+Easter Brunch,"Celebrate Easter with a lavish brunch spread featuring eggs, pastries, and spring-inspired dishes.",images\Thematic Units\Easter_Brunch.jpg
+Independence BBQ,"Celebrate Independence Day with a patriotic barbecue featuring hot dogs, corn on the cob, and apple pie.",images\Thematic Units\Independence_BBQ.jpg
+Oktoberfest,"Raise a stein and join the festivities with traditional German fare like pretzels, bratwurst, and sauerkraut.",images\Thematic Units\Oktoberfest.jpg
+Dia de los Muertos,"Honor the Day of the Dead with a colorful fiesta featuring traditional Mexican dishes and sugar skull treats.",images\Thematic Units\Dia_de_los_Muertos.jpg
+Hanukkah Feast,"Celebrate Hanukkah with a festive feast featuring latkes, brisket, and jelly-filled sufganiyot.",images\Thematic Units\Hanukkah_Feast.jpg
+Christmas Cookies,"Gather friends and family for a cookie exchange featuring an assortment of homemade cookies and treats.",images\Thematic Units\Christmas_Cookies.jpg
+New Years Party,"Ring in the New Year with a dazzling party platter featuring finger foods, dips, and bubbly champagne.",images\Thematic Units\New_Years_Party.jpg
+Thanksgiving Dinner,"Give thanks with a traditional Thanksgiving dinner featuring roast turkey, stuffing, and cranberry sauce.",images\Thematic Units\Thanksgiving_Dinner.jpg
+Chinese New Year,"Welcome the Lunar New Year with a lavish banquet featuring dumplings, noodles, and sweet desserts.",images\Thematic Units\Chinese_New_Year.jpg
+Cinco de Mayo,"Celebrate Cinco de Mayo with a festive fiesta featuring tacos, margaritas, and spicy salsa.",images\Thematic Units\Cinco_de_Mayo.jpg
+Summer Solstice,"Celebrate the longest day of the year with a summer solstice feast featuring grilled seafood and seasonal fruits.",images\Thematic Units\Summer_Solstice.jpg
+Winter Brunch,"Cozy up indoors with a winter wonderland brunch featuring hearty casseroles and warm beverages.",images\Thematic Units\Winter_Brunch.jpg
+Labor Day Cookout,"Enjoy the last days of summer with a Labor Day cookout featuring grilled favorites and refreshing beverages.",images\Thematic Units\Labor_Day_Cookout.jpg
+Mardi Gras Feast,"Join the revelry of Mardi Gras with a festive feast featuring jambalaya, gumbo, and king cake.",images\Thematic Units\Mardi_Gras_Feast.jpg
+Midsummer Night,"Celebrate Midsummer with a magical feast inspired by Shakespeare featuring mead, roasted meats, and berry tarts.",images\Thematic Units\Midsummer_Night.jpg
+Diwali Festival,"Illuminate your home with the glow of Diwali and indulge in traditional Indian sweets and savory snacks.",images\Thematic Units\Diwali_Festival.jpg
+St. Patricks Day,"Raise a glass and celebrate St. Patricks Day with classic Irish pub fare like shepherds pie and Guinness stew.",images\Thematic Units\St._Patricks_Day.jpg
+Bastille Day Soirée,"Raise a toast to liberty and equality with a Bastille Day soirée featuring French delicacies like escargot and croissants.",images\Thematic Units\Bastille_Day_Soiree.jpg
+Rosh Hashanah,"Celebrate the Jewish New Year with a Rosh Hashanah feast featuring honey-glazed carrots and challah bread.",images\Thematic Units\Rosh_Hashanah.jpg
+Halloween Banquet,"Host a spooky Halloween banquet with ghoulish delights like pumpkin soup and monster-shaped cookies.",images\Thematic Units\Halloween_Banquet.jpg
+Mid-Autumn Festival,"Gather under the moonlight and celebrate the Mid-Autumn Festival with mooncakes and tea.",images\Thematic Units\Mid_Autumn_Festival.jpg
+Harvest Moon Dinner,"Celebrate the autumn equinox with a harvest moon dinner featuring seasonal squash and apple pie.",images\Thematic Units\Harvest_Moon_Dinner.jpg
+Sukkot Festival,"Celebrate Sukkot with a harvest festival feast featuring traditional Jewish dishes and outdoor dining.",images\Thematic Units\Sukkot_Festival.jpg
+Spring Equinox,"Welcome the arrival of spring with a lively equinox soirée featuring fresh salads and floral cocktails.",images\Thematic Units\Spring_Equinox.jpg
+Lunar New Year,"Ring in the Lunar New Year with a dumpling party featuring homemade dumplings and dipping sauces.",images\Thematic Units\Lunar_New_Year.jpg
+Eid al-Fitr Feast,"Celebrate the end of Ramadan with an Eid al-Fitr feast featuring savory biryani and sweet baklava.",images\Thematic Units\Eid_al_Fitr_Feast.jpg
+Carnival Celebration,"Join the carnival festivities with a colorful celebration featuring Brazilian feijoada and caipirinhas.",images\Thematic Units\Carnival_Celebration.jpg
+Cherry Blossom Picnic,"Admire the beauty of cherry blossoms with a picturesque picnic featuring sushi rolls and matcha desserts.",images\Thematic Units\Cherry_Blossom_Picnic.jpg
+Winter Olympics,"Cheer on your favorite athletes with a Winter Olympics gathering featuring global cuisine and medal-worthy snacks.",images\Thematic Units\Winter_Olympics.jpg
+Summer Olympics,"Celebrate the Summer Olympics with a cookout featuring international barbecue favorites and refreshing cocktails.",images\Thematic Units\Summer_Olympics.jpg
+Fiesta de San Fermín,"Join the excitement of the Running of the Bulls with a Spanish fiesta featuring tapas and sangria.",images\Thematic Units\Fiesta_de_San_Fermin.jpg
+Christmas Feast,"Gather with loved ones for a festive Christmas Eve feast featuring roast goose and mulled wine.",images\Thematic Units\Christmas_Feast.jpg
+Día de los Reyes,"Celebrate Three Kings Day with a festive feast featuring Roscón de Reyes and hot chocolate.",images\Thematic Units\Dia_de_los_Reyes.jpg
+Midsummer Smörgåsbord,"Experience the Swedish tradition of Midsummer with a smörgåsbord featuring pickled herring and meatballs.",images\Thematic Units\Midsummer_Smorgasbord.jpg
+Winter Solstice,"Welcome the return of light with a winter solstice celebration featuring hearty soups and warm bread.",images\Thematic Units\Winter_Solstice.jpg
+Bastille Day Picnic,"Enjoy a leisurely Bastille Day picnic with French baguettes, cheeses, and macarons.",images\Thematic Units\Bastille_Day_Picnic.jpg
+Womens Day Luncheon,"Celebrate womens achievements with an International Womens Day luncheon featuring global cuisine and empowerment.",images\Thematic Units\Womens_Day_Luncheon.jpg
+Summer Festival,"Rock out at a summer music festival with festival fare like burgers, fries, and ice cream cones.",images\Thematic Units\Summer_Festival.jpg
+Oktoberfest Garden,"Raise a stein in a traditional Oktoberfest beer garden with pretzels, bratwurst, and steaming mugs of beer.",images\Thematic Units\Oktoberfest_Garden.jpg
