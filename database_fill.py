@@ -412,7 +412,7 @@ def fill_Cook_has_Specialisation():
         print("Database connection closed.")
 
 def fill_Cook_has_Recipies():
-    """
+    
     df_specialisations = pd.read_csv('has_specialisation.csv', encoding='utf-8')
     df_recipies = pd.read_csv('recipies.csv', encoding='utf-8')
     df_recipies = df_recipies[['name', 'National_Cuisine_Name']]
@@ -421,7 +421,7 @@ def fill_Cook_has_Recipies():
     result = merge_data[['Cook_name', 'Cook_surname', 'name']]
     result.columns = ['Cook_Name', 'Cook_Surname', 'Recipes_name']
     result.to_csv('cook_has_recipies.csv', index=False)
-    """
+    
     connection = connect()
     row = []
     try:
@@ -518,7 +518,7 @@ def fill_Episode():
     finally:
         # The connection is automatically closed when exiting the 'with connection' block
         print("Database connection closed.")
-"""
+
 fill_Professional_Expertise()
 fill_Cook()
 fill_National_Cuisine()
@@ -539,5 +539,4 @@ fill_Cook_has_Specialisation()
 fill_Recipies_Has_Ingredients()
 fill_Recipies_has_Thematic_Unit()
 fill_Episode()
-"""
 fill_Cook_has_Recipies()
