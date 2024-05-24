@@ -411,6 +411,37 @@ def fill_Cook_has_Specialisation():
         # The connection is automatically closed when exiting the 'with connection' block
         print("Database connection closed.")
 
+def fill_Cook_has_Recipies():
+    """
+    df_specialisations = pd.read_csv('has_specialisation.csv', encoding='utf-8')
+    df_recipies = pd.read_csv('recipies.csv', encoding='utf-8')
+    df_recipies = df_recipies[['name', 'National_Cuisine_Name']]
+    merge_data = pd.merge(df_specialisations, df_recipies, on='National_Cuisine_Name', how='inner')
+
+    result = merge_data[['Cook_name', 'Cook_surname', 'name']]
+    result.columns = ['Cook_Name', 'Cook_Surname', 'Recipes_name']
+    result.to_csv('cook_has_recipies.csv', index=False)
+    """
+    connection = connect()
+    row = []
+    try:
+        with connection:
+            with connection.cursor() as cursor:
+                sql = "INSERT INTO Cook_has_Recipies (Cook_Name, Cook_Surname, Recipies_name) VALUES (%s, %s,%s)"
+                with open('cook_has_recipies.csv', 'r', encoding='utf-8') as file:
+                    csv_data = csv.reader(file)
+                    next(csv_data)  # Skip the header row
+                    for row in csv_data:
+                        cursor.execute(sql, (row[0], row[1], row[2]))
+                
+            connection.commit()
+    except Exception as e:
+        print(row)
+        print("Error:", e)
+    finally:
+        # The connection is automatically closed when exiting the 'with connection' block
+        print("Database connection closed.")
+
 
 def fill_Recipies_Has_Ingredients():
     """
@@ -486,8 +517,8 @@ def fill_Episode():
         print("Error:", e)
     finally:
         # The connection is automatically closed when exiting the 'with connection' block
-        print("Database connection closed.") 
-
+        print("Database connection closed.")
+"""
 fill_Professional_Expertise()
 fill_Cook()
 fill_National_Cuisine()
@@ -508,3 +539,5 @@ fill_Cook_has_Specialisation()
 fill_Recipies_Has_Ingredients()
 fill_Recipies_has_Thematic_Unit()
 fill_Episode()
+"""
+fill_Cook_has_Recipies()
