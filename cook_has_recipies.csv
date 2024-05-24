@@ -1,0 +1,459 @@
+Cook_Name,Cook_Surname,Recipes_name
+Ella,Grant,Pad Thai
+Ella,Grant,Tom Yum Soup
+Ella,Grant,Green Curry with Chicken
+Ella,Grant,Tom Kha Gai (Thai Chicken Coconut Soup)
+Ella,Grant,Pad See Ew
+Ella,Grant,Lumpia (Thai Spring Rolls)
+Ella,Grant,Tom Kha Kai Kai Dao (Thai Coconut Curry Omelet)
+Leo,Brooks,One-Pan Lemon Garlic Salmon with Asparagus
+Leo,Brooks,Scrambled Eggs
+Leo,Brooks,Tuna Salad Sandwich
+Leo,Brooks,Chicken Pot Pie
+Leo,Brooks,Avocado Toast
+Leo,Brooks,Chicken Noodle Soup
+Leo,Brooks,Chicken Caesar Salad
+Leo,Brooks,Pancakes
+Leo,Brooks,Apple Crumble
+Leo,Brooks,Chicken and Dumplings
+Leo,Brooks,Club Sandwich
+Leo,Brooks,Tuna Noodle Casserole
+Leo,Brooks,Egg Salad Sandwich
+Leo,Brooks,Grilled Cheese Sandwich
+Leo,Brooks,Chicken Pot Pie with Puff Pastry
+Leo,Brooks,Chocolate Chip Cookies
+Leo,Brooks,Jerk Chicken (American Dish)
+Ariana,Fields,Spiced Chickpea Curry with Coconut Milk
+Ariana,Fields,Chicken Tikka Masala
+Ariana,Fields,Butter Chicken
+Ariana,Fields,Beef Vindaloo
+Ariana,Fields,Aloo Gobi (Potato and Cauliflower Curry)
+Ariana,Fields,Chicken Curry
+Ariana,Fields,Tandoori Chicken
+Finn,Baxter,Chicken Kyiv (Chicken Kiev)
+Finn,Baxter,Borscht (Ukrainian Borscht)
+Finn,Baxter,Ukrainian Borscht with Meatballs
+Luna,Townsend,Fruit Salad
+Jasper,Barrett,Gulasch (Hungarian Stew)
+Jasper,Barrett,Gulas (Hungarian Goulash)
+Jasper,Barrett,Pörkölt (Hungarian Pork Stew)
+Jasper,Barrett,Fiš paprikaš (Hungarian Fish Stew)
+Jasper,Barrett,Chicken Paprikash (Hungarian Paprika Chicken)
+Jasper,Barrett,Goulash
+Maeve,Saunders,Ful Medames
+Theo,Lucas,Nigerian Jollof Rice
+Ivy,Nichols,Paella Valenciana
+Milo,Hendrix,Paella Valenciana
+Nora,Stone,Greek Yogurt Marinade Chicken Souvlaki
+Nora,Stone,Greek Yogurt Parfait with Granola and Berries
+Nora,Stone,Moussaka
+Nora,Stone,Greek Salad
+Felix,Conrad,Ful Medames
+Ruby,Walters,Shakshuka
+Kai,Christian,Gulasch (Hungarian Stew)
+Kai,Christian,Gulas (Hungarian Goulash)
+Kai,Christian,Pörkölt (Hungarian Pork Stew)
+Kai,Christian,Fiš paprikaš (Hungarian Fish Stew)
+Kai,Christian,Chicken Paprikash (Hungarian Paprika Chicken)
+Kai,Christian,Goulash
+Hazel,Joy,Bibimbap
+Hazel,Joy,Kimchi Jjigae (Kimchi Stew)
+Hazel,Joy,Bibimbap (Korean Mixed Rice Bowl)
+Hazel,Joy,Bulgogi (Korean Marinated Beef)
+Oscar,Flynn,Greek Yogurt Marinade Chicken Souvlaki
+Oscar,Flynn,Greek Yogurt Parfait with Granola and Berries
+Oscar,Flynn,Moussaka
+Oscar,Flynn,Greek Salad
+Cora,Heath,Falafel Pita Pockets
+Cora,Heath,Hummus Wrap
+Cora,Heath,Falafel
+Silas,York,Pierogi (Polish Dumplings)
+Eliza,Benson,Pierogi (Polish Dumplings)
+Jude,Mercer,Bun Bo Hue
+Jude,Mercer,Pho Ga (Vietnamese Chicken Noodle Soup)
+Ada,Lang,Hummus and Veggie Wrap
+Ada,Lang,Chicken Shawarma
+Arthur,Case,Hummus and Veggie Wrap
+Arthur,Case,Chicken Shawarma
+Iris,Malone,Greek Yogurt Marinade Chicken Souvlaki
+Iris,Malone,Greek Yogurt Parfait with Granola and Berries
+Iris,Malone,Moussaka
+Iris,Malone,Greek Salad
+Rowan,Frost,Spiced Chickpea Curry with Coconut Milk
+Rowan,Frost,Chicken Tikka Masala
+Rowan,Frost,Butter Chicken
+Rowan,Frost,Beef Vindaloo
+Rowan,Frost,Aloo Gobi (Potato and Cauliflower Curry)
+Rowan,Frost,Chicken Curry
+Rowan,Frost,Tandoori Chicken
+Clara,Forbes,Greek Yogurt Marinade Chicken Souvlaki
+Clara,Forbes,Greek Yogurt Parfait with Granola and Berries
+Clara,Forbes,Moussaka
+Clara,Forbes,Greek Salad
+Louis,Goodwin,Fruit Salad
+Vivian,Pope,Falafel Pita Pockets
+Vivian,Pope,Hummus Wrap
+Vivian,Pope,Falafel
+Ronan,Golden,Beef Stroganoff
+Ronan,Golden,Pirozhki (Russian Savory Buns)
+Ronan,Golden,Solyanka (Russian Meat Stew)
+June,Harding,Hummus and Veggie Wrap
+June,Harding,Chicken Shawarma
+Beckett,Clements,Shakshuka (Israeli Eggs in Spicy Tomato Sauce)
+Beckett,Clements,Kreplach (Jewish Dumplings)
+Elsie,Duffy,Greek Yogurt Marinade Chicken Souvlaki
+Elsie,Duffy,Greek Yogurt Parfait with Granola and Berries
+Elsie,Duffy,Moussaka
+Elsie,Duffy,Greek Salad
+Milo,Whitaker,Ful Medames
+Tessa,Dalton,Paella Valenciana
+Asher,Blair,Bun Bo Hue
+Asher,Blair,Pho Ga (Vietnamese Chicken Noodle Soup)
+Lila,Hodge,Pad Thai
+Lila,Hodge,Tom Yum Soup
+Lila,Hodge,Green Curry with Chicken
+Lila,Hodge,Tom Kha Gai (Thai Chicken Coconut Soup)
+Lila,Hodge,Pad See Ew
+Lila,Hodge,Lumpia (Thai Spring Rolls)
+Lila,Hodge,Tom Kha Kai Kai Dao (Thai Coconut Curry Omelet)
+Felix,Knox,Greek Yogurt Marinade Chicken Souvlaki
+Felix,Knox,Greek Yogurt Parfait with Granola and Berries
+Felix,Knox,Moussaka
+Felix,Knox,Greek Salad
+Margot,Conrad,Ceviche
+Jude,Skinner,Falafel Pita Pockets
+Jude,Skinner,Hummus Wrap
+Jude,Skinner,Falafel
+Eden,Noble,Penne Arrabbiata
+Eden,Noble,Tuscan White Bean Soup
+Eden,Noble,Caprese Salad
+Eden,Noble,Pasta Primavera
+Eden,Noble,Chicken Alfredo
+Eden,Noble,Mushroom Risotto
+Eden,Noble,Lasagna
+Eden,Noble,Spaghetti Carbonara
+Eden,Noble,Caprese Pasta Salad
+Eden,Noble,Chicken Marsala
+Eden,Noble,Risotto
+Eden,Noble,Tiramisu
+Theo,Drake,Chicken Kyiv (Chicken Kiev)
+Theo,Drake,Borscht (Ukrainian Borscht)
+Theo,Drake,Ukrainian Borscht with Meatballs
+Avery,McCarty,Sarma (Stuffed Cabbage Leaves)
+Avery,McCarty,Pasulj (Bean Stew)
+Avery,McCarty,Popara (Cornbread with Cheese)
+Avery,McCarty,Zeljanka (Sauerkraut Stew)
+Lillian,Mueller,Beef and Broccoli Stir-fry
+Lillian,Mueller,Kung Pao Chicken
+Lillian,Mueller,Spring Rolls
+Lillian,Mueller,Chicken Stir-fry with Broccoli
+Levi,Proctor,Fruit Salad
+Piper,Wilder,Shakshuka
+Archer,Bright,Ful Medames
+Willa,Childs,Penne Arrabbiata
+Willa,Childs,Tuscan White Bean Soup
+Willa,Childs,Caprese Salad
+Willa,Childs,Pasta Primavera
+Willa,Childs,Chicken Alfredo
+Willa,Childs,Mushroom Risotto
+Willa,Childs,Lasagna
+Willa,Childs,Spaghetti Carbonara
+Willa,Childs,Caprese Pasta Salad
+Willa,Childs,Chicken Marsala
+Willa,Childs,Risotto
+Willa,Childs,Tiramisu
+Jasper,Compton,Colcannon (Irish Mashed Potatoes)
+Phoebe,McNeill,Pad Thai
+Phoebe,McNeill,Tom Yum Soup
+Phoebe,McNeill,Green Curry with Chicken
+Phoebe,McNeill,Tom Kha Gai (Thai Chicken Coconut Soup)
+Phoebe,McNeill,Pad See Ew
+Phoebe,McNeill,Lumpia (Thai Spring Rolls)
+Phoebe,McNeill,Tom Kha Kai Kai Dao (Thai Coconut Curry Omelet)
+Simon,Calhoun,Colcannon (Irish Mashed Potatoes)
+Josie,Daly,Sarma (Stuffed Cabbage Leaves)
+Josie,Daly,Pasulj (Bean Stew)
+Josie,Daly,Popara (Cornbread with Cheese)
+Josie,Daly,Zeljanka (Sauerkraut Stew)
+Griffin,Dunlap,Fruit Salad
+Juliet,Stafford,Lentil Soup
+Juliet,Stafford,Baklava
+Reid,Sterling,Greek Yogurt Marinade Chicken Souvlaki
+Reid,Sterling,Greek Yogurt Parfait with Granola and Berries
+Reid,Sterling,Moussaka
+Reid,Sterling,Greek Salad
+Harlow,Powers,Borsch (Beet Soup)
+Harlow,Powers,Burek (Serbian Savory Pie)
+Harlow,Powers,Ajvar (Serbian Pepper Spread)
+Harlow,Powers,Cottage Cheese Pancakes (Serbian Palačinke)
+Harlow,Powers,Pljeskavica (Grilled Flatbread Burger)
+Harlow,Powers,Gibanica (Savory Pie)
+Everett,Witt,Gulasch (Hungarian Stew)
+Everett,Witt,Gulas (Hungarian Goulash)
+Everett,Witt,Pörkölt (Hungarian Pork Stew)
+Everett,Witt,Fiš paprikaš (Hungarian Fish Stew)
+Everett,Witt,Chicken Paprikash (Hungarian Paprika Chicken)
+Everett,Witt,Goulash
+Olive,Lord,Shakshuka (Israeli Eggs in Spicy Tomato Sauce)
+Olive,Lord,Kreplach (Jewish Dumplings)
+Hugo,Penn,Shakshuka (Israeli Eggs in Spicy Tomato Sauce)
+Hugo,Penn,Kreplach (Jewish Dumplings)
+Mabel,Thorne,Bun Bo Hue
+Mabel,Thorne,Pho Ga (Vietnamese Chicken Noodle Soup)
+Rhys,Gallegos,Sarma (Stuffed Cabbage Leaves)
+Rhys,Gallegos,Pasulj (Bean Stew)
+Rhys,Gallegos,Popara (Cornbread with Cheese)
+Rhys,Gallegos,Zeljanka (Sauerkraut Stew)
+Daphne,Riggs,Falafel Pita Pockets
+Daphne,Riggs,Hummus Wrap
+Daphne,Riggs,Falafel
+Rowan,Keene,Pierogi (Polish Dumplings)
+Fiona,Langley,Lentil Soup
+Fiona,Langley,Baklava
+Oscar,Lindsay,Fruit Salad
+Iris,Darwin,Ful Medames
+Felix,East,Mofongo (Brazilian Mashed Plantains)
+Felix,East,Etouffee (Cajun Stew)
+Ada,Hensley,Pad Thai
+Ada,Hensley,Tom Yum Soup
+Ada,Hensley,Green Curry with Chicken
+Ada,Hensley,Tom Kha Gai (Thai Chicken Coconut Soup)
+Ada,Hensley,Pad See Ew
+Ada,Hensley,Lumpia (Thai Spring Rolls)
+Ada,Hensley,Tom Kha Kai Kai Dao (Thai Coconut Curry Omelet)
+Juliet,Cooley,Bun Bo Hue
+Juliet,Cooley,Pho Ga (Vietnamese Chicken Noodle Soup)
+Kai,Vang,Ful Medames
+Nora,Fountain,Pad Thai
+Nora,Fountain,Tom Yum Soup
+Nora,Fountain,Green Curry with Chicken
+Nora,Fountain,Tom Kha Gai (Thai Chicken Coconut Soup)
+Nora,Fountain,Pad See Ew
+Nora,Fountain,Lumpia (Thai Spring Rolls)
+Nora,Fountain,Tom Kha Kai Kai Dao (Thai Coconut Curry Omelet)
+Silas,Keys,Nigerian Jollof Rice
+Beckett,Paris,Ful Medames
+Margot,Gibbons,Ful Medames
+Phoebe,Sierra,Mofongo (Brazilian Mashed Plantains)
+Phoebe,Sierra,Etouffee (Cajun Stew)
+Reid,Shoemaker,Beef and Broccoli Stir-fry
+Reid,Shoemaker,Kung Pao Chicken
+Reid,Shoemaker,Spring Rolls
+Reid,Shoemaker,Chicken Stir-fry with Broccoli
+Willa,Elmore,Sushi Bake
+Willa,Elmore,Chicken Katsu Curry
+Willa,Elmore,Gyoza
+Willa,Elmore,Miso Soup
+Levi,Coulter,Paella Valenciana
+Eden,Gold,Penne Arrabbiata
+Eden,Gold,Tuscan White Bean Soup
+Eden,Gold,Caprese Salad
+Eden,Gold,Pasta Primavera
+Eden,Gold,Chicken Alfredo
+Eden,Gold,Mushroom Risotto
+Eden,Gold,Lasagna
+Eden,Gold,Spaghetti Carbonara
+Eden,Gold,Caprese Pasta Salad
+Eden,Gold,Chicken Marsala
+Eden,Gold,Risotto
+Eden,Gold,Tiramisu
+Harlow,Plain,Ful Medames
+Lillian,Gage,Sushi Bake
+Lillian,Gage,Chicken Katsu Curry
+Lillian,Gage,Gyoza
+Lillian,Gage,Miso Soup
+Everett,Elder,Greek Yogurt Marinade Chicken Souvlaki
+Everett,Elder,Greek Yogurt Parfait with Granola and Berries
+Everett,Elder,Moussaka
+Everett,Elder,Greek Salad
+Piper,Groves,Spiced Chickpea Curry with Coconut Milk
+Piper,Groves,Chicken Tikka Masala
+Piper,Groves,Butter Chicken
+Piper,Groves,Beef Vindaloo
+Piper,Groves,Aloo Gobi (Potato and Cauliflower Curry)
+Piper,Groves,Chicken Curry
+Piper,Groves,Tandoori Chicken
+Archer,Story,Beef Stroganoff
+Archer,Story,Pirozhki (Russian Savory Buns)
+Archer,Story,Solyanka (Russian Meat Stew)
+Griffin,Faulkner,Ratatouille
+Griffin,Faulkner,Salmon with Lemon Dill Sauce
+Griffin,Faulkner,Beef Bourguignon
+Griffin,Faulkner,French Toast
+Griffin,Faulkner,Potato Leek Soup
+Griffin,Faulkner,Ratatouille Tian
+Griffin,Faulkner,Pan-Seared Salmon with Lemon Butter Sauce
+Griffin,Faulkner,Coq au Vin
+Griffin,Faulkner,Croissants
+Josie,Lord,Beef Stroganoff
+Josie,Lord,Pirozhki (Russian Savory Buns)
+Josie,Lord,Solyanka (Russian Meat Stew)
+Simon,Honeycutt,Nigerian Jollof Rice
+Hugo,Christensen,Falafel Pita Pockets
+Hugo,Christensen,Hummus Wrap
+Hugo,Christensen,Falafel
+Rhys,Riddle,Shakshuka
+Daphne,Byron,Chicken Fajitas
+Daphne,Byron,Tacos
+Daphne,Byron,Fish Tacos
+Daphne,Byron,Black Bean Burgers
+Daphne,Byron,Guacamole
+Daphne,Byron,Beef Enchiladas
+Daphne,Byron,Curried Goat (Mexican Dish)
+Oscar,Valentine,Beef Wellington
+Oscar,Valentine,Shepherd's Pie
+Oscar,Valentine,Bangers and Mash
+Oscar,Valentine,Fish and Chips (English Classic)
+Oscar,Valentine,Chicken Kiev Pie (English)
+Fiona,Wills,Hummus and Veggie Wrap
+Fiona,Wills,Chicken Shawarma
+Jasper,Cable,Mofongo (Brazilian Mashed Plantains)
+Jasper,Cable,Etouffee (Cajun Stew)
+Mabel,Peak,Ratatouille
+Mabel,Peak,Salmon with Lemon Dill Sauce
+Mabel,Peak,Beef Bourguignon
+Mabel,Peak,French Toast
+Mabel,Peak,Potato Leek Soup
+Mabel,Peak,Ratatouille Tian
+Mabel,Peak,Pan-Seared Salmon with Lemon Butter Sauce
+Mabel,Peak,Coq au Vin
+Mabel,Peak,Croissants
+Jude,Rush,Mofongo (Brazilian Mashed Plantains)
+Jude,Rush,Etouffee (Cajun Stew)
+Lila,North,Greek Yogurt Marinade Chicken Souvlaki
+Lila,North,Greek Yogurt Parfait with Granola and Berries
+Lila,North,Moussaka
+Lila,North,Greek Salad
+Tessa,Sage,Greek Yogurt Marinade Chicken Souvlaki
+Tessa,Sage,Greek Yogurt Parfait with Granola and Berries
+Tessa,Sage,Moussaka
+Tessa,Sage,Greek Salad
+Milo,Wolf,Chicken Kyiv (Chicken Kiev)
+Milo,Wolf,Borscht (Ukrainian Borscht)
+Milo,Wolf,Ukrainian Borscht with Meatballs
+Cora,Meadows,Shakshuka (Israeli Eggs in Spicy Tomato Sauce)
+Cora,Meadows,Kreplach (Jewish Dumplings)
+Vivian,Pike,Mofongo (Brazilian Mashed Plantains)
+Vivian,Pike,Etouffee (Cajun Stew)
+Louis,Noble,Beef Wellington
+Louis,Noble,Shepherd's Pie
+Louis,Noble,Bangers and Mash
+Louis,Noble,Fish and Chips (English Classic)
+Louis,Noble,Chicken Kiev Pie (English)
+Clara,Key,Paella Valenciana
+Ally,Samatta,Lentil Soup
+Ally,Samatta,Baklava
+Magnum,Carlos,Bibimbap
+Magnum,Carlos,Kimchi Jjigae (Kimchi Stew)
+Magnum,Carlos,Bibimbap (Korean Mixed Rice Bowl)
+Magnum,Carlos,Bulgogi (Korean Marinated Beef)
+Abdussatorov,Nodirbek,Bibimbap
+Abdussatorov,Nodirbek,Kimchi Jjigae (Kimchi Stew)
+Abdussatorov,Nodirbek,Bibimbap (Korean Mixed Rice Bowl)
+Abdussatorov,Nodirbek,Bulgogi (Korean Marinated Beef)
+Hikaru,Nakamura,Sushi Bake
+Hikaru,Nakamura,Chicken Katsu Curry
+Hikaru,Nakamura,Gyoza
+Hikaru,Nakamura,Miso Soup
+Sam,Altman,Chicken Fajitas
+Sam,Altman,Tacos
+Sam,Altman,Fish Tacos
+Sam,Altman,Black Bean Burgers
+Sam,Altman,Guacamole
+Sam,Altman,Beef Enchiladas
+Sam,Altman,Curried Goat (Mexican Dish)
+Razvan,Lucescu,Borsch (Beet Soup)
+Razvan,Lucescu,Burek (Serbian Savory Pie)
+Razvan,Lucescu,Ajvar (Serbian Pepper Spread)
+Razvan,Lucescu,Cottage Cheese Pancakes (Serbian Palačinke)
+Razvan,Lucescu,Pljeskavica (Grilled Flatbread Burger)
+Razvan,Lucescu,Gibanica (Savory Pie)
+Vladimir,Kramnik,Borsch (Beet Soup)
+Vladimir,Kramnik,Burek (Serbian Savory Pie)
+Vladimir,Kramnik,Ajvar (Serbian Pepper Spread)
+Vladimir,Kramnik,Cottage Cheese Pancakes (Serbian Palačinke)
+Vladimir,Kramnik,Pljeskavica (Grilled Flatbread Burger)
+Vladimir,Kramnik,Gibanica (Savory Pie)
+Garry,Kasparov,Ceviche
+Fabiano,Caruana,One-Pan Lemon Garlic Salmon with Asparagus
+Fabiano,Caruana,Scrambled Eggs
+Fabiano,Caruana,Tuna Salad Sandwich
+Fabiano,Caruana,Chicken Pot Pie
+Fabiano,Caruana,Avocado Toast
+Fabiano,Caruana,Chicken Noodle Soup
+Fabiano,Caruana,Chicken Caesar Salad
+Fabiano,Caruana,Pancakes
+Fabiano,Caruana,Apple Crumble
+Fabiano,Caruana,Chicken and Dumplings
+Fabiano,Caruana,Club Sandwich
+Fabiano,Caruana,Tuna Noodle Casserole
+Fabiano,Caruana,Egg Salad Sandwich
+Fabiano,Caruana,Grilled Cheese Sandwich
+Fabiano,Caruana,Chicken Pot Pie with Puff Pastry
+Fabiano,Caruana,Chocolate Chip Cookies
+Fabiano,Caruana,Jerk Chicken (American Dish)
+Levon,Aronian,Ratatouille
+Levon,Aronian,Salmon with Lemon Dill Sauce
+Levon,Aronian,Beef Bourguignon
+Levon,Aronian,French Toast
+Levon,Aronian,Potato Leek Soup
+Levon,Aronian,Ratatouille Tian
+Levon,Aronian,Pan-Seared Salmon with Lemon Butter Sauce
+Levon,Aronian,Coq au Vin
+Levon,Aronian,Croissants
+Alexios Dimitrios,Lolis,Colcannon (Irish Mashed Potatoes)
+Kostas,Karatzas,Beef Wellington
+Kostas,Karatzas,Shepherd's Pie
+Kostas,Karatzas,Bangers and Mash
+Kostas,Karatzas,Fish and Chips (English Classic)
+Kostas,Karatzas,Chicken Kiev Pie (English)
+Vasilis,Kotronias,Ceviche
+Mizakopoulos,Christoforos,One-Pan Lemon Garlic Salmon with Asparagus
+Mizakopoulos,Christoforos,Scrambled Eggs
+Mizakopoulos,Christoforos,Tuna Salad Sandwich
+Mizakopoulos,Christoforos,Chicken Pot Pie
+Mizakopoulos,Christoforos,Avocado Toast
+Mizakopoulos,Christoforos,Chicken Noodle Soup
+Mizakopoulos,Christoforos,Chicken Caesar Salad
+Mizakopoulos,Christoforos,Pancakes
+Mizakopoulos,Christoforos,Apple Crumble
+Mizakopoulos,Christoforos,Chicken and Dumplings
+Mizakopoulos,Christoforos,Club Sandwich
+Mizakopoulos,Christoforos,Tuna Noodle Casserole
+Mizakopoulos,Christoforos,Egg Salad Sandwich
+Mizakopoulos,Christoforos,Grilled Cheese Sandwich
+Mizakopoulos,Christoforos,Chicken Pot Pie with Puff Pastry
+Mizakopoulos,Christoforos,Chocolate Chip Cookies
+Mizakopoulos,Christoforos,Jerk Chicken (American Dish)
+Lelovitis,Dimitrios,Beef and Broccoli Stir-fry
+Lelovitis,Dimitrios,Kung Pao Chicken
+Lelovitis,Dimitrios,Spring Rolls
+Lelovitis,Dimitrios,Chicken Stir-fry with Broccoli
+Kostas,Kavvadas,Chicken Fajitas
+Kostas,Kavvadas,Tacos
+Kostas,Kavvadas,Fish Tacos
+Kostas,Kavvadas,Black Bean Burgers
+Kostas,Kavvadas,Guacamole
+Kostas,Kavvadas,Beef Enchiladas
+Kostas,Kavvadas,Curried Goat (Mexican Dish)
+Sam,Altman,Ćevapčići (Grilled Minced Meat Rolls)
+Sam,Altman,Punjene Paprike (Stuffed Peppers)
+Razvan,Lucescu,Ćevapčići (Grilled Minced Meat Rolls)
+Razvan,Lucescu,Punjene Paprike (Stuffed Peppers)
+Vladimir,Kramnik,Ćevapčići (Grilled Minced Meat Rolls)
+Vladimir,Kramnik,Punjene Paprike (Stuffed Peppers)
+Garry,Kasparov,Empanadas (Argentinian Pastries)
+Fabiano,Caruana,Empanadas (Argentinian Pastries)
+Levon,Aronian,Empanadas (Argentinian Pastries)
+Alexios Dimitrios,Lolis,Palačinky (Czech Sweet Crepes)
+Alexios Dimitrios,Lolis,Špekáčky (Grilled Sausages)
+Kostas,Karatzas,Palačinky (Czech Sweet Crepes)
+Kostas,Karatzas,Špekáčky (Grilled Sausages)
+Vasilis,Kotronias,Palačinky (Czech Sweet Crepes)
+Vasilis,Kotronias,Špekáčky (Grilled Sausages)
+Mizakopoulos,Christoforos,Sauerbraten (German Pot Roast)
+Mizakopoulos,Christoforos,Sauerbraten
+Lelovitis,Dimitrios,Sauerbraten (German Pot Roast)
+Lelovitis,Dimitrios,Sauerbraten
+Kostas,Kavvadas,Sauerbraten (German Pot Roast)
+Kostas,Kavvadas,Sauerbraten

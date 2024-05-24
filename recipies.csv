@@ -1,4 +1,4 @@
-difficulty,name,description,preparation_time,cooking_time,fat,protein,carbs,cooking_or_pastry,basic_ingredient_name,National_Cuisine_name,Recipies_Image
+difficulty,name,description,preparation_time,cooking_time,fat,protein,carbs,cooking_or_pastry,basic_ingredient_name,National_Cuisine_Name,Recipies_Image
 3,Spiced Chickpea Curry with Coconut Milk,Aromatic and flavorful chickpea curry simmered in coconut milk with warming spices.,15,30,15,20,40,0,Chickpeas,Indian,images\Recipes\Spiced_Chickpea_Curry_with_Coconut_Milk.jpg
 2,One-Pan Lemon Garlic Salmon with Asparagus,"Simple and delicious salmon dish with roasted asparagus, flavored with lemon and garlic.",10,20,20,30,5,0,Salmon,American,images\Recipes\One_Pan_Lemon_Garlic_Salmon_with_Asparagus.jpg
 4,Penne Arrabbiata,Classic Italian pasta dish with a spicy tomato sauce.,15,20,10,15,30,0,Penne,Italian,images\Recipes\Penne_Arrabbiata.jpg
