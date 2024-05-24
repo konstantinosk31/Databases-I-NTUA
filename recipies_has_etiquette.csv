@@ -1,131 +1,391 @@
 Recipies_name, Etiquette_Meal_Type
 Spiced Chickpea Curry with Coconut Milk,main_course
+Spiced Chickpea Curry with Coconut Milk,feast
+Spiced Chickpea Curry with Coconut Milk,national_dish
 One-Pan Lemon Garlic Salmon with Asparagus,main_course
+One-Pan Lemon Garlic Salmon with Asparagus,dinner
+One-Pan Lemon Garlic Salmon with Asparagus,entree
 Penne Arrabbiata,main_course
+Penne Arrabbiata,quick_lunch
+Penne Arrabbiata,cafe
 Chicken Fajitas,main_course
+Chicken Fajitas,barbeque
+Chicken Fajitas,picnic
 Beef and Broccoli Stir-fry,main_course
+Beef and Broccoli Stir-fry,deipnon
+Beef and Broccoli Stir-fry,dinner
 Tuscan White Bean Soup,main_course
+Tuscan White Bean Soup,starter
+Tuscan White Bean Soup,school_meal
 Greek Yogurt Marinade Chicken Souvlaki,street_food
+Greek Yogurt Marinade Chicken Souvlaki,finger_food
+Greek Yogurt Marinade Chicken Souvlaki,snack
 Pad Thai,main_course
+Pad Thai,street_food
+Pad Thai,dinner
 Ratatouille,main_course
+Ratatouille,national_dish
+Ratatouille,dinner
 Chicken Tikka Masala,national_dish
+Chicken Tikka Masala,main_course
+Chicken Tikka Masala,feast
 Caprese Salad,starter
+Caprese Salad,appetizer
+Caprese Salad,cafe
 Beef Stroganoff,main_course
+Beef Stroganoff,deipnon
+Beef Stroganoff,dinner
 Kung Pao Chicken,main_course
+Kung Pao Chicken,entree
+Kung Pao Chicken,dinner
 Salmon with Lemon Dill Sauce,main_course
+Salmon with Lemon Dill Sauce,feast
+Salmon with Lemon Dill Sauce,dinner
 Scrambled Eggs,breakfast
+Scrambled Eggs,brunch
+Scrambled Eggs,snack
 Pasta Primavera,main_course
+Pasta Primavera,quick_lunch
+Pasta Primavera,cafe
 Beef Wellington,main_course
+Beef Wellington,feast
+Beef Wellington,dinner
 Tuna Salad Sandwich,lunch
+Tuna Salad Sandwich,quick_lunch
+Tuna Salad Sandwich,box_lunch
 Chicken Pot Pie,main_course
+Chicken Pot Pie,feast
+Chicken Pot Pie,dinner
 Sushi Bake,main_course
+Sushi Bake,feast
+Sushi Bake,dinner
 Greek Yogurt Parfait with Granola and Berries,breakfast
+Greek Yogurt Parfait with Granola and Berries,brunch
+Greek Yogurt Parfait with Granola and Berries,snack
 Shakshuka,breakfast
+Shakshuka,brunch
+Shakshuka,sacred_meal
 Chicken Alfredo,main_course
+Chicken Alfredo,entree
+Chicken Alfredo,dinner
 Tacos,smorgasbord
+Tacos,street_food
+Tacos,snack
 Mushroom Risotto,main_course
+Mushroom Risotto,feast
+Mushroom Risotto,dinner
 Avocado Toast,breakfast
+Avocado Toast,brunch
+Avocado Toast,quick_lunch
 Lasagna,main_course
+Lasagna,feast
+Lasagna,dinner
 Bibimbap,main_course
+Bibimbap,national_dish
+Bibimbap,entree
 Chicken Noodle Soup,main_course
+Chicken Noodle Soup,starter
+Chicken Noodle Soup,dinner
 Hummus and Veggie Wrap,quick_lunch
+Hummus and Veggie Wrap,box_lunch
+Hummus and Veggie Wrap,snack
 Beef Bourguignon,main_course
+Beef Bourguignon,feast
+Beef Bourguignon,dinner
 Fish Tacos,tapas
+Fish Tacos,street_food
+Fish Tacos,snack
 Black Bean Burgers,beanfeast
+Black Bean Burgers,barbeque
+Black Bean Burgers,platter
 Lentil Soup,main_course
+Lentil Soup,starter
+Lentil Soup,dinner
 Chicken Caesar Salad,main_course
+Chicken Caesar Salad,starter
+Chicken Caesar Salad,quick_lunch
 French Toast,breakfast
+French Toast,brunch
+French Toast,snack
 Moussaka,deipnon
+Moussaka,main_course
+Moussaka,feast
 Paella Valenciana,main_course
+Paella Valenciana,feast
+Paella Valenciana,dinner
 Falafel Pita Pockets,finger_food
+Falafel Pita Pockets,street_food
+Falafel Pita Pockets,snack
 Tom Yum Soup,main_course
+Tom Yum Soup,starter
+Tom Yum Soup,dinner
 Shepherd's Pie,main_course
+Shepherd's Pie,feast
+Shepherd's Pie,dinner
 Pancakes,breakfast
+Pancakes,brunch
+Pancakes,dessert
 Kimchi Jjigae (Kimchi Stew),main_course
+Kimchi Jjigae (Kimchi Stew),feast
+Kimchi Jjigae (Kimchi Stew),dinner
 Green Curry with Chicken,main_course
+Green Curry with Chicken,feast
+Green Curry with Chicken,dinner
 Guacamole,appetizer
+Guacamole,starter
+Guacamole,side_dish
 Spaghetti Carbonara,main_course
+Spaghetti Carbonara,feast
+Spaghetti Carbonara,dinner
 Fruit Salad,dessert
+Fruit Salad,snack
+Fruit Salad,side_dish
 Apple Crumble,dessert
+Apple Crumble,tiffin
+Apple Crumble,snack
 Chicken Katsu Curry,feast
+Chicken Katsu Curry,main_course
+Chicken Katsu Curry,dinner
 Chicken Shawarma,snack
+Chicken Shawarma,street_food
+Chicken Shawarma,finger_food
 Hummus Wrap,lunch
+Hummus Wrap,quick_lunch
+Hummus Wrap,box_lunch
 Potato Leek Soup,main_course
+Potato Leek Soup,starter
+Potato Leek Soup,dinner
 Butter Chicken,main_course
+Butter Chicken,feast
+Butter Chicken,dinner
 Caprese Pasta Salad,lunch
+Caprese Pasta Salad,quick_lunch
+Caprese Pasta Salad,box_lunch
 Ratatouille Tian,main_course
+Ratatouille Tian,feast
+Ratatouille Tian,dinner
 Chicken and Dumplings,main_course
+Chicken and Dumplings,feast
+Chicken and Dumplings,dinner
 Baklava,dessert
+Baklava,tiffin
+Baklava,snack
 Club Sandwich,lunch
+Club Sandwich,quick_lunch
+Club Sandwich,box_lunch
 Beef Vindaloo,main_course
+Beef Vindaloo,feast
+Beef Vindaloo,dinner
 Tuna Noodle Casserole,main_course
+Tuna Noodle Casserole,feast
+Tuna Noodle Casserole,dinner
 Chicken Marsala,main_course
+Chicken Marsala,feast
+Chicken Marsala,dinner
 Spring Rolls,appetizer
+Spring Rolls,starter
+Spring Rolls,finger_food
 Egg Salad Sandwich,lunch
+Egg Salad Sandwich,quick_lunch
+Egg Salad Sandwich,box_lunch
 Tom Kha Gai (Thai Chicken Coconut Soup),main_course
+Tom Kha Gai (Thai Chicken Coconut Soup),starter
+Tom Kha Gai (Thai Chicken Coconut Soup),dinner
 Grilled Cheese Sandwich,lunch
+Grilled Cheese Sandwich,quick_lunch
+Grilled Cheese Sandwich,box_lunch
 Beef Enchiladas,smorgasbord
+Beef Enchiladas,street_food
+Beef Enchiladas,snack
 Pan-Seared Salmon with Lemon Butter Sauce,main_course
+Pan-Seared Salmon with Lemon Butter Sauce,feast
+Pan-Seared Salmon with Lemon Butter Sauce,dinner
 Pad See Ew,main_course
+Pad See Ew,street_food
+Pad See Ew,dinner
 Chicken Stir-fry with Broccoli,main_course
+Chicken Stir-fry with Broccoli,entree
+Chicken Stir-fry with Broccoli,dinner
 Chicken Pot Pie with Puff Pastry,main_course
+Chicken Pot Pie with Puff Pastry,feast
+Chicken Pot Pie with Puff Pastry,dinner
 Chocolate Chip Cookies,tiffin
+Chocolate Chip Cookies,snack
+Chocolate Chip Cookies,dessert
 Greek Salad,starter
+Greek Salad,appetizer
+Greek Salad,side_dish
 Aloo Gobi (Potato and Cauliflower Curry),main_course
+Aloo Gobi (Potato and Cauliflower Curry),feast
+Aloo Gobi (Potato and Cauliflower Curry),dinner
 Bun Bo Hue,main_course
+Bun Bo Hue,feast
+Bun Bo Hue,dinner
 Ful Medames,breakfast
+Ful Medames,brunch
+Ful Medames,street_food
 Mofongo (Brazilian Mashed Plantains),entree
+Mofongo (Brazilian Mashed Plantains),feast
+Mofongo (Brazilian Mashed Plantains),main_course
 Bangers and Mash,main_course
+Bangers and Mash,feast
+Bangers and Mash,dinner
 Etouffee (Cajun Stew),main_course
+Etouffee (Cajun Stew),feast
+Etouffee (Cajun Stew),dinner
 Pho Ga (Vietnamese Chicken Noodle Soup),hors_d_oeuvre
+Pho Ga (Vietnamese Chicken Noodle Soup),starter
+Pho Ga (Vietnamese Chicken Noodle Soup),main_course
 Pierogi (Polish Dumplings),main_course
+Pierogi (Polish Dumplings),feast
+Pierogi (Polish Dumplings),dinner
 Empanadas (Argentinian Pastries),appetizer
+Empanadas (Argentinian Pastries),starter
+Empanadas (Argentinian Pastries),snack
 Gulasch (Hungarian Stew),national_dish
+Gulasch (Hungarian Stew),main_course
+Gulasch (Hungarian Stew),feast
 Colcannon (Irish Mashed Potatoes),side_dish
+Colcannon (Irish Mashed Potatoes),starter
+Colcannon (Irish Mashed Potatoes),entree
 Bibimbap (Korean Mixed Rice Bowl),main_course
+Bibimbap (Korean Mixed Rice Bowl),feast
+Bibimbap (Korean Mixed Rice Bowl),entree
 Jerk Chicken (American Dish),barbeque
+Jerk Chicken (American Dish),feast
+Jerk Chicken (American Dish),main_course
 Borsch (Beet Soup),main_course
+Borsch (Beet Soup),starter
+Borsch (Beet Soup),dinner
 Curried Goat (Mexican Dish),main_course
+Curried Goat (Mexican Dish),feast
+Curried Goat (Mexican Dish),dinner
 Lumpia (Thai Spring Rolls),appetizer
+Lumpia (Thai Spring Rolls),starter
+Lumpia (Thai Spring Rolls),finger_food
 Tom Kha Kai Kai Dao (Thai Coconut Curry Omelet),sacred_meal
+Tom Kha Kai Kai Dao (Thai Coconut Curry Omelet),main_course
+Tom Kha Kai Kai Dao (Thai Coconut Curry Omelet),dinner
 Sauerbraten (German Pot Roast),main_course
+Sauerbraten (German Pot Roast),feast
+Sauerbraten (German Pot Roast),dinner
 Bulgogi (Korean Marinated Beef),main_course
+Bulgogi (Korean Marinated Beef),feast
+Bulgogi (Korean Marinated Beef),entree
 Nigerian Jollof Rice,last_meal
+Nigerian Jollof Rice,main_course
+Nigerian Jollof Rice,feast
 Sarma (Stuffed Cabbage Leaves),iftar
+Sarma (Stuffed Cabbage Leaves),main_course
+Sarma (Stuffed Cabbage Leaves),feast
 Gulas (Hungarian Goulash),national_dish
+Gulas (Hungarian Goulash),main_course
+Gulas (Hungarian Goulash),feast
 Pirozhki (Russian Savory Buns),lunch
+Pirozhki (Russian Savory Buns),quick_lunch
+Pirozhki (Russian Savory Buns),box_lunch
 Chicken Kyiv (Chicken Kiev),school_meal
+Chicken Kyiv (Chicken Kiev),main_course
+Chicken Kyiv (Chicken Kiev),feast
 Borscht (Ukrainian Borscht),main_course
+Borscht (Ukrainian Borscht),starter
+Borscht (Ukrainian Borscht),dinner
 Shakshuka (Israeli Eggs in Spicy Tomato Sauce),brunch
+Shakshuka (Israeli Eggs in Spicy Tomato Sauce),sacred_meal
+Shakshuka (Israeli Eggs in Spicy Tomato Sauce),breakfast
 Palačinky (Czech Sweet Crepes),dessert
+Palačinky (Czech Sweet Crepes),tiffin
+Palačinky (Czech Sweet Crepes),snack
 Pörkölt (Hungarian Pork Stew),main_course
+Pörkölt (Hungarian Pork Stew),feast
+Pörkölt (Hungarian Pork Stew),dinner
 Fiš paprikaš (Hungarian Fish Stew),main_course
+Fiš paprikaš (Hungarian Fish Stew),feast
+Fiš paprikaš (Hungarian Fish Stew),dinner
 Špekáčky (Grilled Sausages),main_course
+Špekáčky (Grilled Sausages),barbeque
+Špekáčky (Grilled Sausages),platter
 Burek (Serbian Savory Pie),lunch
+Burek (Serbian Savory Pie),quick_lunch
+Burek (Serbian Savory Pie),box_lunch
 Ajvar (Serbian Pepper Spread),appetizer
+Ajvar (Serbian Pepper Spread),starter
+Ajvar (Serbian Pepper Spread),side_dish
 Cottage Cheese Pancakes (Serbian Palačinke),breakfast
+Cottage Cheese Pancakes (Serbian Palačinke),brunch
+Cottage Cheese Pancakes (Serbian Palačinke),snack
 Chicken Paprikash (Hungarian Paprika Chicken),main_course
+Chicken Paprikash (Hungarian Paprika Chicken),feast
+Chicken Paprikash (Hungarian Paprika Chicken),dinner
 Fish and Chips (English Classic),fish_fry
+Fish and Chips (English Classic),main_course
+Fish and Chips (English Classic),dinner
 Chicken Kiev Pie (English),main_course
+Chicken Kiev Pie (English),feast
+Chicken Kiev Pie (English),dinner
 Ukrainian Borscht with Meatballs,main_course
+Ukrainian Borscht with Meatballs,starter
+Ukrainian Borscht with Meatballs,dinner
 Kreplach (Jewish Dumplings),main_course
+Kreplach (Jewish Dumplings),feast
+Kreplach (Jewish Dumplings),dinner
 Solyanka (Russian Meat Stew),main_course
+Solyanka (Russian Meat Stew),feast
+Solyanka (Russian Meat Stew),dinner
 Ceviche,starter
+Ceviche,appetizer
+Ceviche,entree
 Coq au Vin,main_course
+Coq au Vin,feast
+Coq au Vin,dinner
 Gyoza,appetizer
+Gyoza,starter
+Gyoza,finger_food
 Chicken Curry,main_course
+Chicken Curry,feast
+Chicken Curry,dinner
 Sauerbraten,main_course
+Sauerbraten,feast
+Sauerbraten,dinner
 Falafel,box_lunch
+Falafel,finger_food
+Falafel,street_food
 Goulash,main_course
+Goulash,national_dish
+Goulash,feast
 Risotto,revellion
+Risotto,main_course
+Risotto,dinner
 Tiramisu,dessert
+Tiramisu,tiffin
+Tiramisu,snack
 Croissants,breakfast
+Croissants,brunch
+Croissants,appetizer
 Miso Soup,starter
+Miso Soup,appetizer
+Miso Soup,main_course
 Tandoori Chicken,main_course
+Tandoori Chicken,feast
+Tandoori Chicken,dinner
 Ćevapčići (Grilled Minced Meat Rolls),platter
+Ćevapčići (Grilled Minced Meat Rolls),barbeque
+Ćevapčići (Grilled Minced Meat Rolls),main_course
 Pljeskavica (Grilled Flatbread Burger),barbeque
+Pljeskavica (Grilled Flatbread Burger),platter
+Pljeskavica (Grilled Flatbread Burger),street_food
 Punjene Paprike (Stuffed Peppers),main_course
+Punjene Paprike (Stuffed Peppers),feast
+Punjene Paprike (Stuffed Peppers),dinner
 Gibanica (Savory Pie),lunch
+Gibanica (Savory Pie),quick_lunch
+Gibanica (Savory Pie),box_lunch
 Pasulj (Bean Stew),main_course
+Pasulj (Bean Stew),feast
+Pasulj (Bean Stew),dinner
 Popara (Cornbread with Cheese),breakfast
+Popara (Cornbread with Cheese),brunch
+Popara (Cornbread with Cheese),snack
 Zeljanka (Sauerkraut Stew),main_course
+Zeljanka (Sauerkraut Stew),feast
+Zeljanka (Sauerkraut Stew),dinner
