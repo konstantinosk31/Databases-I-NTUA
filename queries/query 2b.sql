@@ -1,16 +1,8 @@
-SELECT DISTINCT
-	Assignment_Cook_name AS Cook_name,
-    Assignment_Cook_surname AS Cook_surname
+SELECT
+	Cook_name,
+    Cook_surname
 FROM
-	Eval_for
+	Assignment INNER JOIN Episode
+    ON Episode_episode_number = episode_number
 WHERE 
-  (Assignment_Cook_name, Assignment_Cook_surname) 
-IN (SELECT
-		Cook_name,
-		Cook_surname
-	FROM
-		Has_specialisation
-	WHERE
-		National_Cuisine_name = "Greek");
-
-
+	National_Cuisine_name = "Greek" AND year = 1;
