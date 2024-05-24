@@ -1,6 +1,6 @@
 SELECT
+	year AS Year,
     e.episode_name AS Episode_name,
-    year AS Year,
     SUM(r.difficulty) AS Total_Difficulty
 FROM
     Assignment a
