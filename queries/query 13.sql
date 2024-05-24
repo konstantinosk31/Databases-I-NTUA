@@ -1,28 +1,33 @@
-WITH Winner AS (
-    SELECT
-        e.Episode_episode_number AS Episode_number,
-        SUM(e.evaluation) AS Total_Evaluation,
-        RANK() OVER (
-            PARTITION BY e.Episode_episode_number 
-            ORDER BY SUM(e.evaluation) DESC
-        ) AS rk
-    FROM 
-        Eval_for e
-    GROUP BY
-        e.Episode_episode_number
+WITH D AS (
+	SELECT
+		year AS Year,
+		e.Episode_name AS Episode_name,
+		RANK() OVER (
+			PARTITION BY year
+			ORDER BY professional_expertise_type
+		) AS rk
+	FROM
+		Cook c
+	INNER JOIN
+		Assignment a ON a.Cook_name = c.name AND  a.Cook_surname = c.surname
+	INNER JOIN
+		Episode e ON a.Episode_episode_number = e.episode_number
 )
 
 SELECT
-    Episode_number,
-    Total_Evaluation
-FROM 
-    Winner
-WHERE rk = 1
-ORDER BY 
-    Episode_number;
-
-WITH COUNT_A AS( 
-	SELECT COUNT(*)
-	FROM Eval_for 
-	WHERE Professional_Expertise_type = '1.chef');
-
+	Year,
+    Episode_name
+FROM (
+	SELECT
+		Year,
+		Episode_name,
+		sum(rk) AS Total_Evaluation
+	FROM
+		D
+	GROUP BY
+		Year,
+		Episode_name
+	ORDER BY
+		Total_Evaluation DESC
+	LIMIT 1
+) AS F

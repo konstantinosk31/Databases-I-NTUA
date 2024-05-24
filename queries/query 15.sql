@@ -6,7 +6,7 @@ WHERE fc.name NOT IN (
     FROM
         Assignment a
     JOIN
-        Recipies_has_Ingredients rhi ON a.Recipies_name = rhi.Recipies_name
+        Recipies r ON a.Recipies_name = r.name
     JOIN
-        Ingredients i ON rhi.Ingredients_name = i.name
+        Ingredients i ON r.basic_ingredient_name = i.name
 );
