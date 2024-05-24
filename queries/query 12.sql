@@ -1,8 +1,11 @@
 SELECT
-    a.Episode_episode_number AS Episode_number,
+    e.episode_name AS Episode_name,
+    year AS Year,
     SUM(r.difficulty) AS Total_Difficulty
 FROM
     Assignment a
+JOIN
+	Episode e ON a.Episode_episode_number = e.episode_number
 JOIN
     Recipies r ON a.Recipies_name = r.name
 GROUP BY
