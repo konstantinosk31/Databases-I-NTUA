@@ -11,7 +11,7 @@ def connect():
     # Connect to the database
     connection = pymysql.connect(host='localhost',
                                 user='root',
-                                password='admin123',
+                                password='otinanai',
                                 database='mydb',
                                 cursorclass=pymysql.cursors.DictCursor)
     return connection
@@ -22,11 +22,11 @@ def fill_Professional_Expertise():
         with connection:
             with connection.cursor() as cursor:
                 sql = "INSERT INTO Professional_Expertise (type) VALUES (%s)"
-                cursor.execute(sql, "A_cook")
-                cursor.execute(sql, "B_cook")
-                cursor.execute(sql, "C_cook")
-                cursor.execute(sql, "sous_chef")
-                cursor.execute(sql, "chef")
+                cursor.execute(sql, "3.A_cook")
+                cursor.execute(sql, "4.B_cook")
+                cursor.execute(sql, "5.C_cook")
+                cursor.execute(sql, "2.sous_chef")
+                cursor.execute(sql, "1.chef")
             connection.commit()
     except Exception as e:
         print("Error:", e)
