@@ -1,4 +1,4 @@
-SELECT
+SELECT DISTINCT
 	Cook_name,
     Cook_surname
 FROM
