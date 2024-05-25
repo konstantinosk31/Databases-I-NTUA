@@ -1,1 +1,0 @@
- df = pd.read_csv('ingredients.csv', encoding='utf-8')
