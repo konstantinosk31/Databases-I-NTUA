@@ -10,11 +10,18 @@ def convert_data(file_name):
 
 # Function to connect to the database
 def connect():
-    connection = pymysql.connect(host='localhost',
-                                user='root',
-                                password='otinanai',
-                                database='mydb',
-                                cursorclass=pymysql.cursors.DictCursor)
+    # Load the credentials from CSV
+    df = pd.read_csv('database_credentials.csv', header=None)
+    credentials = df[0].values  # Extract values into an array
+    
+    # Use the credentials to connect to the database
+    connection = pymysql.connect(
+        host=credentials[0],      
+        user=credentials[1],      
+        password=credentials[2],  
+        database=credentials[3],  
+        cursorclass=pymysql.cursors.DictCursor
+    )
     return connection
 
 # Function to fill the Professional_Expertise table
