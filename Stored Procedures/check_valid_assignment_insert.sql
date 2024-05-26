@@ -1,7 +1,6 @@
 CREATE DEFINER=`root`@`localhost` PROCEDURE `check_valid_assignment_insert`(
     IN p_Cook_name VARCHAR(50),
     IN p_Cook_surname VARCHAR(50),
-    IN p_Episode_year INT,
     IN p_Episode_episode_number INT,
     IN p_National_Cuisine_name VARCHAR(50),
     IN p_Recipies_name VARCHAR(50),
@@ -23,8 +22,7 @@ SELECT
 INTO same_episode_cook FROM
     assignment
 WHERE
-    Episode_year = p_Episode_year
-        AND Episode_episode_number = p_Episode_episode_number
+    Episode_episode_number = p_Episode_episode_number
         AND Cook_name = p_Cook_name
         AND Cook_surname = p_Cook_surname;
     
@@ -33,8 +31,7 @@ SELECT
 INTO same_episode_cuisine FROM
     assignment
 WHERE
-    Episode_year = p_Episode_year
-        AND Episode_episode_number = p_Episode_episode_number
+    Episode_episode_number = p_Episode_episode_number
         AND National_Cuisine_name = p_National_Cuisine_name;
     
 SELECT 
@@ -42,8 +39,7 @@ SELECT
 INTO same_episode_recipe FROM
     assignment
 WHERE
-    Episode_year = p_Episode_year
-        AND Episode_episode_number = p_Episode_episode_number
+    Episode_episode_number = p_Episode_episode_number
         AND Recipies_name = p_Recipies_name;
     
 SELECT 

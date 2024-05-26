@@ -8,6 +8,6 @@ SELECT *
 FROM Recipies
 WHERE name IN (SELECT Recipies_name FROM Assignment WHERE Cook_name = 'Ariana' AND Cook_surname = 'Fields');
 
-GRANT SELECT, INSERT, UPDATE ON `view_cook_info` TO 'Cook'@'localhost';
+GRANT SELECT, UPDATE ON `view_cook_info` TO 'Cook'@'localhost';
 GRANT SELECT, INSERT, UPDATE ON `view_cook_recipies` TO 'Cook'@'localhost';
 FLUSH PRIVILEGES;
