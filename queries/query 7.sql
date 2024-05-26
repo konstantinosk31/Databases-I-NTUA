@@ -22,4 +22,4 @@ WHERE
 		FROM C
 	)
 ORDER BY
-	Episode_Count
+	Episode_Count;

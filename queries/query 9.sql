@@ -7,4 +7,4 @@ INNER JOIN
 INNER JOIN
     Recipies r ON a.Recipies_name = r.name
 GROUP BY year
-ORDER BY year
+ORDER BY year;

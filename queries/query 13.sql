@@ -30,4 +30,4 @@ FROM (
 	ORDER BY
 		Total_Evaluation DESC
 	LIMIT 1
-) AS F
+) AS F;
